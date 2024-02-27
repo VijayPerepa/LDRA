@@ -1,0 +1,32 @@
+let
+    Source = Excel.Workbook(File.Contents("C:\Users\perep\OneDrive\Desktop\Copy of PowerBi Dashboard (002).xlsx"), null, true),
+    Revenue_Table = Source{[Item="Revenue",Kind="Table"]}[Data],
+    #"Changed Type" = Table.TransformColumnTypes(Revenue_Table,{{"Registration No.", type text}, {"Customer", type text}, {"DOJ", type date}, {"Stundent Name", Int64.Type}, {"Department", type text}, {"City", type text}, {"Application", type text}, {"Duration", Int64.Type}, {"Sales Rep", type text}}),
+    #"Removed Columns" = Table.RemoveColumns(#"Changed Type",{"Registration No."}),
+    #"Inserted Merged Column" = Table.AddColumn(#"Removed Columns", "Student", each Text.Combine({"Student ", Text.From([Stundent Name], "en-IN")}), type text),
+    #"Removed Columns1" = Table.RemoveColumns(#"Inserted Merged Column",{"Stundent Name"}),
+    #"Trimmed Text" = Table.TransformColumns(#"Removed Columns1",{{"Department", Text.Trim, type text}}),
+    #"Capitalized Each Word" = Table.TransformColumns(#"Trimmed Text",{{"Department", Text.Proper, type text}}),
+    #"Replaced Value" = Table.ReplaceValue(#"Capitalized Each Word","Finance","Fin",Replacer.ReplaceText,{"Department"}),
+    #"Replaced Value1" = Table.ReplaceValue(#"Replaced Value",null,"Fin",Replacer.ReplaceValue,{"Department"}),
+    #"Replaced Errors" = Table.ReplaceErrorValues(#"Replaced Value1", {{"Duration", 20}}),
+    #"Duplicated Column" = Table.DuplicateColumn(#"Replaced Errors", "DOJ", "DOJ - Copy"),
+    #"Extracted Month Name" = Table.TransformColumns(#"Duplicated Column", {{"DOJ - Copy", each Date.MonthName(_), type text}}),
+    #"Split Column by Position" = Table.SplitColumn(#"Extracted Month Name", "DOJ - Copy", Splitter.SplitTextByPositions({0, 3}, false), {"DOJ - Copy.1", "DOJ - Copy.2"}),
+    #"Changed Type1" = Table.TransformColumnTypes(#"Split Column by Position",{{"DOJ - Copy.1", type text}, {"DOJ - Copy.2", type text}}),
+    #"Removed Columns2" = Table.RemoveColumns(#"Changed Type1",{"DOJ - Copy.2"}),
+    #"Renamed Columns" = Table.RenameColumns(#"Removed Columns2",{{"DOJ - Copy.1", "Month"}}),
+    #"Duplicated Column1" = Table.DuplicateColumn(#"Renamed Columns", "DOJ", "DOJ - Copy"),
+    #"Extracted Month" = Table.TransformColumns(#"Duplicated Column1",{{"DOJ - Copy", Date.Month, Int64.Type}}),
+    #"Renamed Columns1" = Table.RenameColumns(#"Extracted Month",{{"DOJ - Copy", "Month No."}}),
+    #"Duplicated Column2" = Table.DuplicateColumn(#"Renamed Columns1", "DOJ", "DOJ - Copy"),
+    #"Calculated Quarter" = Table.TransformColumns(#"Duplicated Column2",{{"DOJ - Copy", Date.QuarterOfYear, Int64.Type}}),
+    #"Inserted Merged Column1" = Table.AddColumn(#"Calculated Quarter", "Quarter", each Text.Combine({"Q", Text.From([#"DOJ - Copy"], "en-IN")}), type text),
+    #"Removed Columns3" = Table.RemoveColumns(#"Inserted Merged Column1",{"DOJ - Copy"}),
+    #"Added Custom" = Table.AddColumn(#"Removed Columns3", "Fees Collected", each if [Duration] <= 15 then 15000 
+else if [Duration] <= 35 then [Duration] * 900
+else if [Duration] <= 50 then  [Duration] * 800
+else [Duration] * 700),
+    #"Changed Type2" = Table.TransformColumnTypes(#"Added Custom",{{"Fees Collected", Int64.Type}})
+in
+    #"Changed Type2"

@@ -1,3 +1,6 @@
-Data modeling and creating report : https://www.youtube.com/watch?v=HVxgi1BxxG8&list=PLWQB3PEUJKRneu8fam5CaCMCdrIdT_zDD&pp=gAQBiAQB
-
-Data Preparation : https://www.youtube.com/watch?v=hamC5sYfsH8&list=PLWQB3PEUJKRn1Y_s8whVWEoPPZa6Wm8B6&index=4&pp=gAQBiAQB
+1st Project - Custom Tooltip and ETL - https://www.youtube.com/watch?v=hamC5sYfsH8&list=PLWQB3PEUJKRn1Y_s8whVWEoPPZa6Wm8B6&index=4&pp=gAQBiAQB
+Time intelligence -                    https://www.youtube.com/watch?v=dLON3mj0los&list=PLWQB3PEUJKRnnsPI6hQGd_9yjzidXI80m&index=10&pp=gAQBiAQB
+Custom Tooltip -                       https://www.youtube.com/watch?v=GVh74RKe-dw&list=PLWQB3PEUJKRnnsPI6hQGd_9yjzidXI80m&index=30&pp=gAQBiAQB
+Data modeling and creating report :    https://www.youtube.com/watch?v=HVxgi1BxxG8&list=PLWQB3PEUJKRneu8fam5CaCMCdrIdT_zDD&pp=gAQBiAQB
+PL-300 Power BI Self Training          https://learn.microsoft.com/en-us/training/courses/pl-300t00
+Create Reports in Power BI ( Micorosoft Document) - https://learn.microsoft.com/en-us/power-bi/create-reports/

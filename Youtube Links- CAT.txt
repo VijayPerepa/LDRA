@@ -5,3 +5,4 @@ Data modeling and creating report :    https://www.youtube.com/watch?v=HVxgi1Bxx
 PL-300 Power BI Self Training          https://learn.microsoft.com/en-us/training/courses/pl-300t00
 Create Reports in Power BI ( Micorosoft Document) - https://learn.microsoft.com/en-us/power-bi/create-reports/
 https://forms.gle/qbZ6WvgRznVc3dZCA
+https://forms.office.com/r/2PQCftW96e

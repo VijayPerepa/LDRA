@@ -4,3 +4,4 @@ Custom Tooltip -                       https://www.youtube.com/watch?v=GVh74RKe-
 Data modeling and creating report :    https://www.youtube.com/watch?v=HVxgi1BxxG8&list=PLWQB3PEUJKRneu8fam5CaCMCdrIdT_zDD&pp=gAQBiAQB
 PL-300 Power BI Self Training          https://learn.microsoft.com/en-us/training/courses/pl-300t00
 Create Reports in Power BI ( Micorosoft Document) - https://learn.microsoft.com/en-us/power-bi/create-reports/
+https://forms.gle/qbZ6WvgRznVc3dZCA

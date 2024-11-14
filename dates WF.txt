@@ -1,0 +1,28 @@
+Dates = GENERATE(
+ 
+CALENDARAUTO(),
+ 
+// Below are basic Columns for Regular calendar
+ 
+VAR D = [Date] VAR MonthName = FORMAT(D,"MMM") VAR MonthNumber = MONTH(D) VAR ShortYear = YEAR(D)
+ 
+VAR Qtr = QUARTER(D) VAR QTRtxt = "Q"&Qtr
+ 
+// Below Expressions are for Fiscal Calendar
+ 
+VAR FMN = IF(MonthNumber<4,MonthNumber+9,MonthNumber-3) VAR FQTR = "Q"&ROUNDUP(FMN/3,0)
+ 
+VAR FYear =IF(MonthNumber<4,"FY "&ShortYear-1&"-"&RIGHT(ShortYear,2),"FY "&ShortYear&"-"&RIGHT(ShortYear+1,2))
+ 
+// Below are Concatenated columns viz., month and year AND quarter and Year
+ 
+VAR Month_Year = MonthName & "-" & ShortYear VAR Qtr_Year = QTRtxt & "-" & ShortYear
+ 
+VAR Month_Year_Sort = ShortYear*100+MonthNumber VAr Qtr_year_sort = ShortYear*100+Qtr
+RETURN
+ 
+ROW("Month",MonthName,"Month Number.",MonthNumber,"Quarter",QTRtxt,"Year",ShortYear,
+ 
+"Fis Month No.",FMN,"Fis Qtr",FQTR,"Fis Year",FYear,
+ 
+"Month Year",Month_Year,"Month Year Sort",Month_Year_Sort,"Qtr Year",Qtr_Year,"Qtr Year Sort",Qtr_year_sort))

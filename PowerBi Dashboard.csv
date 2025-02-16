@@ -1,0 +1,802 @@
+Registration No.,Customer,DOJ,StudentName,Department,City,Application,Duration,Sales Rep
+AMTZ128,Customer A,"Saturday, January 7, 2017",Student130,Admin,Chennai,PowerBI,26,Raman
+AMTZ128,Customer A,"Saturday, January 7, 2017",Student131,Admin,Chennai,PowerBI,26,Raman
+customer unique,customer unique,"Saturday, January 7, 2017",Student132,Admin,Chennai,PowerBI,26,Raman
+AMTZ141,Customer A,"Saturday, January 7, 2017",Student130,Admin,Chennai,PowerBI,26,Raman
+AMTZ142,Customer A,"Saturday, January 7, 2017",Student131,Admin,Chennai,PowerBI,26,Raman
+AMTZ127,Customer A,"Tuesday, January 10, 2017",Student129,Admin,Pune,Excel,26,Amar
+AMTZ140,Customer A,"Tuesday, January 10, 2017",Student129,Admin,Pune,Excel,26,Amar
+AMTZ125,Customer AA,"Wednesday, January 11, 2017",Student127,Admin,Pune,Outlook,37,Amar
+AMTZ126,Customer A,"Wednesday, January 11, 2017",Student128,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Wednesday, January 11, 2017",Student133,Admin,Pune,Outlook,37,Amar
+AMTZ136,Customer AB,"Wednesday, January 11, 2017",Student134,Admin,Pune,Outlook,100,Amar
+AMTZ137,Customer AB,"Wednesday, January 11, 2017",Student135,Admin,Pune,Outlook,100,Amar
+AMTZ138,Customer AB,"Wednesday, January 11, 2017",Student136,Admin,Pune,Outlook,37,Amar
+AMTZ139,Customer A,"Wednesday, January 11, 2017",Student128,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Wednesday, January 11, 2017",Student132,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Wednesday, January 11, 2017",Student133,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Wednesday, January 11, 2017",Student134,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Wednesday, January 11, 2017",Student135,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Wednesday, January 11, 2017",136,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Wednesday, January 11, 2017",137,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Wednesday, January 11, 2017",Student138,Admin,Chennai,Office 365,8,Raman
+AMTZ136,Customer AA,"Wednesday, January 11, 2017",Student139,Admin,Chennai,Office 365,234,Raman
+AMTZ122,Customer AB,"Friday, January 13, 2017",Student124,Admin,New Delhi,Excel,33,Rajath
+AMTZ123,Customer AB,"Friday, January 13, 2017",Student125,Admin,Bengaluru,PowerBI,21,Raman
+AMTZ124,Customer AA,"Friday, January 13, 2017",Student126,Admin,Nagpur,VBA,25,Amar
+AMTZ121,Customer AB,"Sunday, January 15, 2017",Student123,Admin,Kolkata,Power,10,Rajath
+AMTZ120,Customer AC,"Monday, January 16, 2017",Student122,Admin,Hyderabad,Word,8,Amar
+AMTZ119,Customer AC,"Saturday, January 21, 2017",Student121,Admin,Chennai,Office 365,17,Raman
+AMTZ118,Customer AD,"Sunday, January 22, 2017",Student120,Admin,Pune,Outlook,30,Amar
+AMTZ117,Customer AD,"Sunday, January 29, 2017",Student119,Admin,Nagpur,VBA,24,Amar
+AMTZ116,Customer AE,"Tuesday, January 31, 2017",Student118,Admin,Bengaluru,PowerBI,31,Raman
+AMTZ115,Customer AE,"Wednesday, February 1, 2017",Student117,Finance,New Delhi,Excel,30,Rajath
+AMTZ114,Customer AF,"Thursday, February 2, 2017",Student116,Finance,Kolkata,Power,15,Rajath
+AMTZ113,Customer AF,"Friday, February 3, 2017",Student115,Finance,Hyderabad,Word,19,Amar
+AMTZ112,Customer AG,"Thursday, February 9, 2017",Student114,Finance,Chennai,Office 365,40,Raman
+AMTZ111,Customer AG,"Saturday, February 11, 2017",Student113,Finance,Pune,Outlook,21,Amar
+AMTZ110,Customer AH,"Tuesday, February 14, 2017",Student111,Finance,Nagpur,PowerBI,28,Amar
+AMTZ110,Customer AH,"Tuesday, February 14, 2017",Student112,Finance,New Delhi,VBA,25,Rajath
+AMTZ109,Customer AI,"Saturday, February 18, 2017",Student110,Finance,Bengaluru,Excel,15,Raman
+AMTZ108,Customer AI,"Monday, February 20, 2017",Student109,Finance,New Delhi,Power,27,Rajath
+AMTZ107,Customer AJ,"Wednesday, February 22, 2017",Student108,Finance,Kolkata,Word,19,Rajath
+AMTZ105,Customer AK,"Friday, March 3, 2017",Student106,Finance,Pune,Outlook,21,Amar
+AMTZ106,Customer AJ,"Friday, March 3, 2017",Student107,Finance,Chennai,Office 365,9,Raman
+AMTZ104,Customer AK,"Saturday, March 4, 2017",Student105,Finance,Nagpur,VBA,33,Amar
+AMTZ103,Customer AL,"Wednesday, March 8, 2017",Student104,Finance,Bengaluru,PowerBI,33,Raman
+AMTZ102,Customer AL,"Thursday, March 9, 2017",Student103,Finance,New Delhi,Excel,19,Rajath
+AMTZ101,Customer AM,"Tuesday, March 21, 2017",Student102,Finance,Kolkata,Power,20,Rajath
+AMTZ99,Customer AN,"Wednesday, March 22, 2017",Student100,Finance,Chennai,Office 365,34,Raman
+AMTZ100,Customer AM,"Wednesday, March 22, 2017",Student101,Finance,Hyderabad,Word,11,Amar
+AMTZ98,Customer AN,"Saturday, March 25, 2017",Student99,HR,Pune,Outlook,39,Amar
+AMTZ97,Customer AO,"Sunday, March 26, 2017",Student98,HR,Nagpur,VBA,23,Amar
+AMTZ96,Customer AO,"Monday, April 3, 2017",Student97,HR,Bengaluru,PowerBI,25,Raman
+AMTZ95,Customer AP,"Tuesday, April 4, 2017",Student96,HR,New Delhi,Excel,19,Rajath
+AMTZ94,Customer AP,"Saturday, April 8, 2017",Student95,HR,Kolkata,Power,10,Rajath
+AMTZ93,Customer AQ,"Sunday, April 9, 2017",Student94,HR,Hyderabad,Word,11,Amar
+AMTZ92,Customer AQ,"Friday, April 14, 2017",Student93,HR,Chennai,Outlook,18,Raman
+AMTZ91,Customer AR,"Saturday, April 15, 2017",Student92,HR,Pune,VBA,35,Amar
+AMTZ90,Customer AR,"Monday, April 17, 2017",Student91,HR,Nagpur,PowerBI,36,Amar
+AMTZ89,Customer AS,"Monday, April 24, 2017",Student90,HR,Bengaluru,Excel,31,Raman
+AMTZ88,Customer AS,"Tuesday, April 25, 2017",Student89,HR,New Delhi,Power,11,Rajath
+AMTZ87,Customer AT,"Wednesday, April 26, 2017",Student88,HR,Kolkata,Word,20,Rajath
+AMTZ86,Customer AT,"Thursday, April 27, 2017",Student87,HR,Chennai,Outlook,29,Raman
+AMTZ85,Customer AU,"Thursday, May 4, 2017",Student86,HR,Pune,VBA,15,Amar
+AMTZ84,Customer AU,"Monday, May 8, 2017",Student85,HR,Nagpur,PowerBI,15,Amar
+AMTZ83,Customer AV,"Tuesday, May 9, 2017",Student84,HR,Bengaluru,Excel,12,Raman
+AMTZ82,Customer AV,"Sunday, May 14, 2017",Student83,HR,New Delhi,Power,21,Rajath
+AMTZ79,Customer AX,"Monday, May 15, 2017",Student80,HR,Chennai,VBA,22,Raman
+AMTZ80,Customer AW,"Monday, May 15, 2017",Student81,HR,Hyderabad,Outlook,27,Amar
+AMTZ81,Customer AW,"Monday, May 15, 2017",Student82,HR,Kolkata,Word,11,Rajath
+AMTZ78,Customer AX,"Tuesday, May 16, 2017",Student79,HR,Pune,PowerBI,13,Amar
+AMTZ77,Customer AY,"Wednesday, May 17, 2017",Student78,HR,Nagpur,Excel,37,Amar
+AMTZ76,Customer AY,"Thursday, May 18, 2017",Student77,HR,Bengaluru,Power,35,Raman
+AMTZ75,Customer AZ,"Saturday, May 20, 2017",Student76,HR,New Delhi,Word,21,Rajath
+AMTZ74,Customer AZ,"Tuesday, May 23, 2017",Student75,HR,Kolkata,VBA,27,Rajath
+AMTZ73,Customer B,"Wednesday, May 24, 2017",Student74,HR,Hyderabad,PowerBI,9,Amar
+AMTZ70,Customer BA,"Thursday, May 25, 2017",Student71,Admin,Nagpur,Word,39,Amar
+AMTZ71,Customer BA,"Thursday, May 25, 2017",Student72,Admin,Pune,Power,15,Amar
+AMTZ72,Customer B,"Thursday, May 25, 2017",Student73,HR,Chennai,Excel,28,Raman
+AMTZ69,Customer BB,"Thursday, June 1, 2017",Student70,Admin,Bengaluru,Outlook,33,Raman
+AMTZ68,Customer BB,"Friday, June 2, 2017",Student69,Admin,New Delhi,VBA,19,Rajath
+AMTZ67,Customer BC,"Monday, June 5, 2017",Student68,Admin,Kolkata,PowerBI,31,Rajath
+AMTZ66,Customer BC,"Saturday, June 10, 2017",Student67,Finance,Chennai,Excel,11,Raman
+AMTZ65,Customer BD,"Thursday, June 15, 2017",Student66,Finance,Pune,Power,37,Amar
+AMTZ63,Customer BE,"Saturday, June 17, 2017",Student64,Finance,Bengaluru,PowerBI,30,Raman
+AMTZ64,Customer BD,"Saturday, June 17, 2017",Student65,Finance,Nagpur,Word,31,Amar
+AMTZ62,Customer BE,"Sunday, June 18, 2017",Student63,Finance,New Delhi,Excel,15,Rajath
+AMTZ61,Customer BF,"Thursday, June 22, 2017",Student62,Finance,Kolkata,Power,38,Rajath
+AMTZ59,Customer BG,"Saturday, July 1, 2017",Student60,Finance,Chennai,Office 365,40,Raman
+AMTZ60,Customer BF,"Saturday, July 1, 2017",Student61,Finance,Hyderabad,Word,17,Amar
+AMTZ58,Customer BG,"Tuesday, July 4, 2017",Student59,Finance,Pune,Outlook,25,Amar
+AMTZ56,Customer BH,"Wednesday, July 12, 2017",Student57,Finance,Bengaluru,PowerBI,30,Raman
+AMTZ57,Customer BH,"Wednesday, July 12, 2017",Student58,Finance,Nagpur,VBA,24,Amar
+AMTZ55,Customer BI,"Friday, July 14, 2017",Student56,Finance,New Delhi,Excel,39,Rajath
+AMTZ54,Customer BI,"Monday, July 17, 2017",Student55,Finance,Kolkata,Power,39,Rajath
+AMTZ53,Customer BJ,"Thursday, July 20, 2017",Student54,Finance,Hyderabad,Word,32,Amar
+AMTZ52,Customer BJ,"Monday, July 24, 2017",Student53,Finance,Chennai,Office 365,12,Raman
+AMTZ50,Customer BK,"Wednesday, July 26, 2017",Student51,Finance,Nagpur,VBA,38,Amar
+AMTZ51,Customer BK,"Wednesday, July 26, 2017",Student52,Finance,Pune,Outlook,18,Amar
+AMTZ49,Customer BL,"Thursday, July 27, 2017",Student50,Finance,Bengaluru,PowerBI,36,Raman
+AMTZ48,Customer BL,"Friday, July 28, 2017",Student49,Finance,New Delhi,Excel,25,Rajath
+AMTZ47,Customer C,"Saturday, July 29, 2017",Student48,Admin,Kolkata,Power,20,Rajath
+AMTZ46,Customer C,"Friday, August 4, 2017",Student47,Admin,Chennai,Word,18,Raman
+AMTZ45,Customer D,"Monday, August 14, 2017",Student46,Admin,Pune,PowerBI,23,Amar
+AMTZ44,Customer D,"Saturday, August 19, 2017",Student45,Admin,Nagpur,Excel,14,Amar
+AMTZ43,Customer E,"Thursday, August 24, 2017",Student44,Admin,Bengaluru,Power,19,Raman
+AMTZ42,Customer E,"Monday, September 11, 2017",Student43,Admin,New Delhi,Word,32,Rajath
+AMTZ41,Customer F,"Wednesday, September 13, 2017",Student42,Admin,Kolkata,Office 365,27,Rajath
+AMTZ40,Customer F,"Thursday, September 14, 2017",Student41,Admin,Hyderabad,Outlook,20,Amar
+AMTZ39,Customer G,"Friday, September 15, 2017",Student40,Admin,Chennai,VBA,28,Raman
+AMTZ38,Customer G,"Thursday, September 21, 2017",Student39,Admin,Pune,PowerBI,16,Amar
+AMTZ36,Customer H,"Friday, September 22, 2017",Student37,Admin,Bengaluru,Power,23,Raman
+AMTZ37,Customer H,"Friday, September 22, 2017",Student38,Admin,Nagpur,Excel,34,Amar
+AMTZ34,Customer I,"Wednesday, September 27, 2017",Student35,Admin,Kolkata,Office 365,24,Rajath
+AMTZ35,Customer I,"Wednesday, September 27, 2017",Student36,Admin,New Delhi,Word,37,Rajath
+AMTZ33,Customer J,"Friday, September 29, 2017",Student34,Admin,Hyderabad,Outlook,32,Amar
+AMTZ32,Customer J,"Tuesday, October 3, 2017",Student33,Admin,Chennai,VBA,19,Raman
+AMTZ30,Customer K,"Thursday, October 5, 2017",Student31,HR,Nagpur,Excel,35,Amar
+AMTZ31,Customer K,"Thursday, October 5, 2017",Student32,Admin,Pune,PowerBI,39,Amar
+AMTZ29,Customer L,"Friday, October 6, 2017",Student30,HR,Bengaluru,Power,21,Raman
+AMTZ28,Customer L,"Monday, October 16, 2017",Student29,HR,New Delhi,Word,32,Rajath
+AMTZ27,Customer M,"Wednesday, October 18, 2017",Student28,HR,Kolkata,Office 365,10,Rajath
+AMTZ26,Customer M,"Thursday, October 19, 2017",Student27,HR,Chennai,Outlook,27,Raman
+AMTZ24,Customer N,"Friday, October 20, 2017",Student25,HR,Nagpur,PowerBI,40,Amar
+AMTZ25,Customer N,"Friday, October 20, 2017",Student26,HR,Pune,VBA,14,Amar
+AMTZ23,Customer O,"Tuesday, October 24, 2017",Student24,HR,Bengaluru,Excel,34,Raman
+AMTZ22,Customer O,"Wednesday, October 25, 2017",Student23,HR,New Delhi,Power,15,Rajath
+AMTZ21,Customer P,"Thursday, October 26, 2017",Student22,HR,Kolkata,Word,28,Rajath
+AMTZ20,Customer P,"Saturday, October 28, 2017",Student21,HR,Hyderabad,Office 365,36,Amar
+AMTZ18,Customer Q,"Sunday, October 29, 2017",Student19,HR,Pune,VBA,39,Amar
+AMTZ19,Customer Q,"Sunday, October 29, 2017",Student20,HR,Chennai,Outlook,25,Raman
+AMTZ17,Customer Q,"Wednesday, November 1, 2017",Student18,Finance,Nagpur,PowerBI,38,Amar
+AMTZ16,Customer R,"Thursday, November 2, 2017",Student17,Finance,Bengaluru,Excel,23,Raman
+AMTZ15,Customer R,"Friday, November 10, 2017",Student16,Finance,New Delhi,Power,34,Rajath
+AMTZ14,Customer S,"Monday, November 13, 2017",Student15,Finance,Kolkata,Word,32,Rajath
+AMTZ13,Customer S,"Thursday, November 16, 2017",Student14,,Hyderabad,Excel,33,Amar
+AMTZ12,Customer T,"Sunday, November 19, 2017",Student13, Finance     ,Chennai,Outlook,11,Raman
+AMTZ11,Customer T,"Monday, November 20, 2017",Student12,      FInAncE     ,Pune,VBA,17,Amar
+AMTZ10,Customer U,"Tuesday, November 28, 2017",Student11, Finance     ,Nagpur,Excel,24,Amar
+AMTZ147,Customer U,"Tuesday, November 28, 2017",Student150,Finance,Nagpur,PowerBI,24,Amar
+AMTZ163,Customer U,"Tuesday, November 28, 2017",Student165,Finance,Nagpur,PowerBI,24,Amar
+AMTZ178,Customer U,"Tuesday, November 28, 2017",Student180,Finance,Nagpur,PowerBI,24,Amar
+AMTZ193,Customer U,"Tuesday, November 28, 2017",Student195,Finance,Nagpur,PowerBI,24,Amar
+AMTZ208,Customer U,"Tuesday, November 28, 2017",Student210,Finance,Nagpur,PowerBI,24,Amar
+AMTZ223,Customer U,"Tuesday, November 28, 2017",Student225,Finance,Nagpur,PowerBI,24,Amar
+AMTZ9,Customer U,"Wednesday, November 29, 2017",Student10, Finance     ,New Delhi,Excel,24,Rajath
+AMTZ146,Customer U,"Wednesday, November 29, 2017",Student149,Finance,Bengaluru,Excel,24,Raman
+AMTZ162,Customer U,"Wednesday, November 29, 2017",Student164,Finance,Bengaluru,Excel,24,Raman
+AMTZ177,Customer U,"Wednesday, November 29, 2017",Student179,Finance,Bengaluru,Excel,24,Raman
+AMTZ192,Customer U,"Wednesday, November 29, 2017",Student194,Finance,Bengaluru,Excel,24,Raman
+AMTZ207,Customer U,"Wednesday, November 29, 2017",Student209,Finance,Bengaluru,Excel,24,Raman
+AMTZ222,Customer U,"Wednesday, November 29, 2017",Student224,Finance,Bengaluru,Excel,24,Raman
+AMTZ8,Customer V,"Thursday, November 30, 2017",Student9,      FInAncE     ,New Delhi,Power,30,Rajath
+AMTZ145,Customer V,"Thursday, November 30, 2017",Student148,Finance,New Delhi,Power,30,Rajath
+AMTZ148,Customer Z,"Thursday, November 30, 2017",Student151,Finance,New Delhi,Power,30,Rajath
+AMTZ149,Customer Y,"Thursday, November 30, 2017",Student152,Finance,New Delhi,Power,30,Rajath
+AMTZ150,Customer Y,"Thursday, November 30, 2017",Student153,Finance,New Delhi,Power,30,Rajath
+AMTZ151,Customer X,"Thursday, November 30, 2017",Student154,Finance,New Delhi,Power,30,Rajath
+AMTZ152,Customer X,"Thursday, November 30, 2017",Student155,Finance,New Delhi,Power,30,Rajath
+AMTZ153,Customer W,"Thursday, November 30, 2017",Student156,Finance,New Delhi,Power,30,Rajath
+AMTZ154,Customer W,"Thursday, November 30, 2017",Student157,Finance,New Delhi,Power,30,Rajath
+AMTZ155,Customer Z,"Thursday, November 30, 2017",Student158,Finance,New Delhi,Power,30,Rajath
+AMTZ156,Vijay Perepa,"Thursday, November 30, 2017",Student158,Finance,New Delhi,Power,26,Rajath
+AMTZ161,Customer V,"Thursday, November 30, 2017",Student163,Finance,New Delhi,Power,30,Rajath
+AMTZ164,Customer Z,"Thursday, November 30, 2017",Student166,Finance,New Delhi,Power,30,Rajath
+AMTZ165,Customer Y,"Thursday, November 30, 2017",Student167,Finance,New Delhi,Power,30,Rajath
+AMTZ166,Customer Y,"Thursday, November 30, 2017",Student168,Finance,New Delhi,Power,30,Rajath
+AMTZ167,Customer X,"Thursday, November 30, 2017",Student169,Finance,New Delhi,Power,30,Rajath
+AMTZ168,Customer X,"Thursday, November 30, 2017",Student170,Finance,New Delhi,Power,30,Rajath
+AMTZ169,Customer W,"Thursday, November 30, 2017",Student171,Finance,New Delhi,Power,30,Rajath
+AMTZ170,Customer W,"Thursday, November 30, 2017",Student172,Finance,New Delhi,Power,30,Rajath
+AMTZ171,Customer Z,"Thursday, November 30, 2017",Student173,Finance,New Delhi,Power,30,Rajath
+AMTZ176,Customer V,"Thursday, November 30, 2017",Student178,Finance,New Delhi,Power,30,Rajath
+AMTZ179,Customer Z,"Thursday, November 30, 2017",Student181,Finance,New Delhi,Power,30,Rajath
+AMTZ180,Customer Y,"Thursday, November 30, 2017",Student182,Finance,New Delhi,Power,30,Rajath
+AMTZ181,Customer Y,"Thursday, November 30, 2017",Student183,Finance,New Delhi,Power,30,Rajath
+AMTZ182,Customer X,"Thursday, November 30, 2017",Student184,Finance,New Delhi,Power,30,Rajath
+AMTZ183,Customer X,"Thursday, November 30, 2017",Student185,Finance,New Delhi,Power,30,Rajath
+AMTZ184,Customer W,"Thursday, November 30, 2017",Student186,Finance,New Delhi,Power,30,Rajath
+AMTZ185,Customer W,"Thursday, November 30, 2017",Student187,Finance,New Delhi,Power,30,Rajath
+AMTZ186,Customer Z,"Thursday, November 30, 2017",Student188,Finance,New Delhi,Power,30,Rajath
+AMTZ191,Customer V,"Thursday, November 30, 2017",Student193,Finance,New Delhi,Power,30,Rajath
+AMTZ194,Customer Z,"Thursday, November 30, 2017",Student196,Finance,New Delhi,Power,30,Rajath
+AMTZ195,Customer Y,"Thursday, November 30, 2017",Student197,Finance,New Delhi,Power,30,Rajath
+AMTZ196,Customer Y,"Thursday, November 30, 2017",Student198,Finance,New Delhi,Power,30,Rajath
+AMTZ197,Customer X,"Thursday, November 30, 2017",Student199,Finance,New Delhi,Power,30,Rajath
+AMTZ198,Customer X,"Thursday, November 30, 2017",Student200,Finance,New Delhi,Power,30,Rajath
+AMTZ199,Customer W,"Thursday, November 30, 2017",Student201,Finance,New Delhi,Power,30,Rajath
+AMTZ200,Customer W,"Thursday, November 30, 2017",Student202,Finance,New Delhi,Power,30,Rajath
+AMTZ201,Customer Z,"Thursday, November 30, 2017",Student203,Finance,New Delhi,Power,30,Rajath
+AMTZ206,Customer V,"Thursday, November 30, 2017",Student208,Finance,New Delhi,Power,30,Rajath
+AMTZ209,Customer Z,"Thursday, November 30, 2017",Student211,Finance,New Delhi,Power,30,Rajath
+AMTZ210,Customer Y,"Thursday, November 30, 2017",Student212,Finance,New Delhi,Power,30,Rajath
+AMTZ211,Customer Y,"Thursday, November 30, 2017",Student213,Finance,New Delhi,Power,30,Rajath
+AMTZ212,Customer X,"Thursday, November 30, 2017",Student214,Finance,New Delhi,Power,30,Rajath
+AMTZ213,Customer X,"Thursday, November 30, 2017",Student215,Finance,New Delhi,Power,30,Rajath
+AMTZ214,Customer W,"Thursday, November 30, 2017",Student216,Finance,New Delhi,Power,30,Rajath
+AMTZ215,Customer W,"Thursday, November 30, 2017",Student217,Finance,New Delhi,Power,30,Rajath
+AMTZ216,Customer Z,"Thursday, November 30, 2017",Student218,Finance,New Delhi,Power,30,Rajath
+AMTZ221,Customer V,"Thursday, November 30, 2017",Student223,Finance,New Delhi,Power,30,Rajath
+AMTZ224,Customer Z,"Thursday, November 30, 2017",Student226,Finance,New Delhi,Power,30,Rajath
+AMTZ225,Customer Y,"Thursday, November 30, 2017",Student227,Finance,New Delhi,Power,30,Rajath
+AMTZ226,Customer Y,"Thursday, November 30, 2017",Student228,Finance,New Delhi,Power,30,Rajath
+AMTZ227,Customer X,"Thursday, November 30, 2017",Student229,Finance,New Delhi,Power,30,Rajath
+AMTZ228,Customer X,"Thursday, November 30, 2017",Student230,Finance,New Delhi,Power,30,Rajath
+AMTZ229,Customer W,"Thursday, November 30, 2017",Student231,Finance,New Delhi,Power,30,Rajath
+AMTZ230,Customer W,"Thursday, November 30, 2017",Student232,Finance,New Delhi,Power,30,Rajath
+AMTZ7,Customer V,"Saturday, December 2, 2017",Student8, Finance     ,Kolkata,Word,18,Rajath
+AMTZ144,Customer V,"Saturday, December 2, 2017",Student147,Finance,Kolkata,Word,18,Rajath
+AMTZ160,Customer V,"Saturday, December 2, 2017",Student162,Finance,Kolkata,Word,18,Rajath
+AMTZ175,Customer V,"Saturday, December 2, 2017",Student177,Finance,Kolkata,Word,18,Rajath
+AMTZ190,Customer V,"Saturday, December 2, 2017",Student192,Finance,Kolkata,Word,18,Rajath
+AMTZ205,Customer V,"Saturday, December 2, 2017",Student207,Finance,Kolkata,Word,18,Rajath
+AMTZ220,Customer V,"Saturday, December 2, 2017",Student222,Finance,Kolkata,Word,18,Rajath
+AMTZ6,Customer W,"Wednesday, December 6, 2017",Student7,      FInAncE     ,New Delhi,Office 365,25,Rajath
+AMTZ143,Customer W,"Wednesday, December 6, 2017",Student146,Finance,Chennai,Office 365,25,Raman
+AMTZ159,Customer W,"Wednesday, December 6, 2017",Student161,Finance,Chennai,Office 365,25,Raman
+AMTZ174,Customer W,"Wednesday, December 6, 2017",Student176,Finance,Chennai,Office 365,25,Raman
+AMTZ189,Customer W,"Wednesday, December 6, 2017",Student191,Finance,Chennai,Office 365,25,Raman
+AMTZ204,Customer W,"Wednesday, December 6, 2017",Student206,Finance,Chennai,Office 365,25,Raman
+AMTZ219,Customer W,"Wednesday, December 6, 2017",Student221,Finance,Chennai,Office 365,25,Raman
+AMTZ5,Customer W,"Friday, December 15, 2017",Student6,Finance,New Delhi,Outlook,18,Rajath
+AMTZ142,Customer W,"Friday, December 15, 2017",Student145,Finance,New Delhi,Outlook,18,Rajath
+AMTZ158,Customer W,"Friday, December 15, 2017",Student160,Finance,New Delhi,Outlook,18,Rajath
+AMTZ173,Customer W,"Friday, December 15, 2017",Student175,Finance,New Delhi,Outlook,18,Rajath
+AMTZ188,Customer W,"Friday, December 15, 2017",Student190,Finance,New Delhi,Outlook,18,Rajath
+AMTZ203,Customer W,"Friday, December 15, 2017",Student205,Finance,New Delhi,Outlook,18,Rajath
+AMTZ218,Customer W,"Friday, December 15, 2017",Student220,Finance,New Delhi,Outlook,18,Rajath
+AMTZ4,Customer X,"Monday, December 18, 2017",Student4,     Fin,New Delhi,PowerBI,22,Rajath
+AMTZ140,Customer X,"Monday, December 18, 2017",Student143,Finance,Nagpur,PowerBI,22,Amar
+AMTZ2,Customer Y,"Monday, December 25, 2017",Student2,Finance,New Delhi,Power,9,Rajath
+AMTZ3,Customer Y,"Monday, December 25, 2017",Student3, Finance     ,Bengaluru,Excel,39,Raman
+AMTZ138,Customer Y,"Monday, December 25, 2017",Student141,Finance,New Delhi,Power,9,Rajath
+AMTZ139,Customer Y,"Monday, December 25, 2017",Student142,Finance,Bengaluru,Excel,39,Raman
+AMTZ1,Customer Z,"Saturday, December 30, 2017",Student1,Finance,New Delhi,Excel,#DIV/0!,Rajath
+AMTZ137,Customer Z,"Saturday, December 30, 2017",Student140,Finance,Kolkata,Word,19,Rajath
+AMTZ5,Customer X,"Monday, January 1, 2018",Student5,Finance,Pune,VBA,8,Amar
+AMTZ141,Customer X,"Monday, January 1, 2018",Student144,Finance,Pune,VBA,8,Amar
+AMTZ157,Customer X,"Monday, January 1, 2018",Student159,Finance,Pune,VBA,8,Amar
+AMTZ172,Customer X,"Monday, January 1, 2018",Student174,Finance,Pune,VBA,8,Amar
+AMTZ187,Customer X,"Monday, January 1, 2018",Student189,Finance,Pune,VBA,8,Amar
+AMTZ202,Customer X,"Monday, January 1, 2018",Student204,Finance,Pune,VBA,8,Amar
+AMTZ217,Customer X,"Monday, January 1, 2018",Student219,Finance,Pune,VBA,8,Amar
+AMTZ5,Customer X,"Monday, January 1, 2018",5,Finance,Pune,VBA,8,Amar
+AMTZ141,Customer X,"Monday, January 1, 2018",144,Finance,Pune,VBA,8,Amar
+AMTZ157,Customer X,"Monday, January 1, 2018",159,Finance,Pune,VBA,8,Amar
+AMTZ172,Customer X,"Monday, January 1, 2018",174,Finance,Pune,VBA,8,Amar
+AMTZ187,Customer X,"Monday, January 1, 2018",189,Finance,Pune,VBA,8,Amar
+AMTZ202,Customer X,"Monday, January 1, 2018",204,Finance,Pune,VBA,8,Amar
+AMTZ217,Customer X,"Monday, January 1, 2018",219,Finance,Pune,VBA,8,Amar
+AMTZ128,Customer A,"Sunday, January 7, 2018",130,Admin,Chennai,PowerBI,26,Raman
+AMTZ128,Customer A,"Sunday, January 7, 2018",131,Admin,Chennai,PowerBI,26,Raman
+customer unique,customer unique,"Sunday, January 7, 2018",132,Admin,Chennai,PowerBI,26,Raman
+AMTZ141,Customer A,"Sunday, January 7, 2018",130,Admin,Chennai,PowerBI,26,Raman
+AMTZ142,Customer A,"Sunday, January 7, 2018",131,Admin,Chennai,PowerBI,26,Raman
+AMTZ127,Customer A,"Wednesday, January 10, 2018",129,Admin,Pune,Excel,26,Amar
+AMTZ140,Customer A,"Wednesday, January 10, 2018",129,Admin,Pune,Excel,26,Amar
+AMTZ125,Customer AA,"Thursday, January 11, 2018",127,Admin,Pune,Outlook,37,Amar
+AMTZ126,Customer A,"Thursday, January 11, 2018",128,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Thursday, January 11, 2018",133,Admin,Pune,Outlook,37,Amar
+AMTZ136,Customer AB,"Thursday, January 11, 2018",134,Admin,Pune,Outlook,100,Amar
+AMTZ137,Customer AB,"Thursday, January 11, 2018",135,Admin,Pune,Outlook,100,Amar
+AMTZ138,Customer AB,"Thursday, January 11, 2018",136,Admin,Pune,Outlook,37,Amar
+AMTZ139,Customer A,"Thursday, January 11, 2018",128,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Thursday, January 11, 2018",132,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Thursday, January 11, 2018",133,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Thursday, January 11, 2018",134,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Thursday, January 11, 2018",135,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Thursday, January 11, 2018",136,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Thursday, January 11, 2018",137,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Thursday, January 11, 2018",138,Admin,Chennai,Office 365,8,Raman
+AMTZ136,Customer AA,"Thursday, January 11, 2018",139,Admin,Chennai,Office 365,234,Raman
+AMTZ122,Customer AB,"Saturday, January 13, 2018",124,Admin,New Delhi,Excel,33,Rajath
+AMTZ123,Customer AB,"Saturday, January 13, 2018",125,Admin,Bengaluru,PowerBI,21,Raman
+AMTZ124,Customer AA,"Saturday, January 13, 2018",126,Admin,Nagpur,VBA,25,Amar
+AMTZ121,Customer AB,"Monday, January 15, 2018",123,Admin,Kolkata,Power,10,Rajath
+AMTZ120,Customer AC,"Tuesday, January 16, 2018",122,Admin,Hyderabad,Word,8,Amar
+AMTZ119,Customer AC,"Sunday, January 21, 2018",121,Admin,Chennai,Office 365,17,Raman
+AMTZ118,Customer AD,"Monday, January 22, 2018",120,Admin,Pune,Outlook,30,Amar
+AMTZ117,Customer AD,"Monday, January 29, 2018",119,Admin,Nagpur,VBA,24,Amar
+AMTZ116,Customer AE,"Wednesday, January 31, 2018",118,Admin,Bengaluru,PowerBI,31,Raman
+AMTZ115,Customer AE,"Thursday, February 1, 2018",117,Finance,New Delhi,Excel,30,Rajath
+AMTZ114,Customer AF,"Friday, February 2, 2018",116,Finance,Kolkata,Power,15,Rajath
+AMTZ113,Customer AF,"Saturday, February 3, 2018",115,Finance,Hyderabad,Word,19,Amar
+AMTZ112,Customer AG,"Friday, February 9, 2018",114,Finance,Chennai,Office 365,40,Raman
+AMTZ111,Customer AG,"Sunday, February 11, 2018",113,Finance,Pune,Outlook,21,Amar
+AMTZ110,Customer AH,"Wednesday, February 14, 2018",111,Finance,Nagpur,PowerBI,28,Amar
+AMTZ110,Customer AH,"Wednesday, February 14, 2018",112,Finance,New Delhi,VBA,25,Rajath
+AMTZ109,Customer AI,"Sunday, February 18, 2018",110,Finance,Bengaluru,Excel,15,Raman
+AMTZ108,Customer AI,"Tuesday, February 20, 2018",109,Finance,New Delhi,Power,27,Rajath
+AMTZ107,Customer AJ,"Thursday, February 22, 2018",108,Finance,Kolkata,Word,19,Rajath
+AMTZ105,Customer AK,"Saturday, March 3, 2018",106,Finance,Pune,Outlook,21,Amar
+AMTZ106,Customer AJ,"Saturday, March 3, 2018",107,Finance,Chennai,Office 365,9,Raman
+AMTZ104,Customer AK,"Sunday, March 4, 2018",105,Finance,Nagpur,VBA,33,Amar
+AMTZ103,Customer AL,"Thursday, March 8, 2018",104,Finance,Bengaluru,PowerBI,33,Raman
+AMTZ102,Customer AL,"Friday, March 9, 2018",103,Finance,New Delhi,Excel,19,Rajath
+AMTZ101,Customer AM,"Wednesday, March 21, 2018",102,Finance,Kolkata,Power,20,Rajath
+AMTZ99,Customer AN,"Thursday, March 22, 2018",100,Finance,Chennai,Office 365,34,Raman
+AMTZ100,Customer AM,"Thursday, March 22, 2018",101,Finance,Hyderabad,Word,11,Amar
+AMTZ98,Customer AN,"Sunday, March 25, 2018",99,HR,Pune,Outlook,39,Amar
+AMTZ97,Customer AO,"Monday, March 26, 2018",98,HR,Nagpur,VBA,23,Amar
+AMTZ96,Customer AO,"Tuesday, April 3, 2018",97,HR,Bengaluru,PowerBI,25,Raman
+AMTZ95,Customer AP,"Wednesday, April 4, 2018",96,HR,New Delhi,Excel,19,Rajath
+AMTZ94,Customer AP,"Sunday, April 8, 2018",95,HR,Kolkata,Power,10,Rajath
+AMTZ93,Customer AQ,"Monday, April 9, 2018",94,HR,Hyderabad,Word,11,Amar
+AMTZ92,Customer AQ,"Saturday, April 14, 2018",93,HR,Chennai,Outlook,18,Raman
+AMTZ91,Customer AR,"Sunday, April 15, 2018",92,HR,Pune,VBA,35,Amar
+AMTZ90,Customer AR,"Tuesday, April 17, 2018",91,HR,Nagpur,PowerBI,36,Amar
+AMTZ89,Customer AS,"Tuesday, April 24, 2018",90,HR,Bengaluru,Excel,31,Raman
+AMTZ88,Customer AS,"Wednesday, April 25, 2018",89,HR,New Delhi,Power,11,Rajath
+AMTZ87,Customer AT,"Thursday, April 26, 2018",88,HR,Kolkata,Word,20,Rajath
+AMTZ86,Customer AT,"Friday, April 27, 2018",87,HR,Chennai,Outlook,29,Raman
+AMTZ85,Customer AU,"Friday, May 4, 2018",86,HR,Pune,VBA,15,Amar
+AMTZ84,Customer AU,"Tuesday, May 8, 2018",85,HR,Nagpur,PowerBI,15,Amar
+AMTZ83,Customer AV,"Wednesday, May 9, 2018",84,HR,Bengaluru,Excel,12,Raman
+AMTZ82,Customer AV,"Monday, May 14, 2018",83,HR,New Delhi,Power,21,Rajath
+AMTZ79,Customer AX,"Tuesday, May 15, 2018",80,HR,Chennai,VBA,22,Raman
+AMTZ80,Customer AW,"Tuesday, May 15, 2018",81,HR,Hyderabad,Outlook,27,Amar
+AMTZ81,Customer AW,"Tuesday, May 15, 2018",82,HR,Kolkata,Word,11,Rajath
+AMTZ78,Customer AX,"Wednesday, May 16, 2018",79,HR,Pune,PowerBI,13,Amar
+AMTZ77,Customer AY,"Thursday, May 17, 2018",78,HR,Nagpur,Excel,37,Amar
+AMTZ76,Customer AY,"Friday, May 18, 2018",77,HR,Bengaluru,Power,35,Raman
+AMTZ75,Customer AZ,"Sunday, May 20, 2018",76,HR,New Delhi,Word,21,Rajath
+AMTZ74,Customer AZ,"Wednesday, May 23, 2018",75,HR,Kolkata,VBA,27,Rajath
+AMTZ73,Customer B,"Thursday, May 24, 2018",74,HR,Hyderabad,PowerBI,9,Amar
+AMTZ70,Customer BA,"Friday, May 25, 2018",71,Admin,Nagpur,Word,39,Amar
+AMTZ71,Customer BA,"Friday, May 25, 2018",72,Admin,Pune,Power,15,Amar
+AMTZ72,Customer B,"Friday, May 25, 2018",73,HR,Chennai,Excel,28,Raman
+AMTZ69,Customer BB,"Friday, June 1, 2018",70,Admin,Bengaluru,Outlook,33,Raman
+AMTZ68,Customer BB,"Saturday, June 2, 2018",69,Admin,New Delhi,VBA,19,Rajath
+AMTZ67,Customer BC,"Tuesday, June 5, 2018",68,Admin,Kolkata,PowerBI,31,Rajath
+AMTZ66,Customer BC,"Sunday, June 10, 2018",67,Finance,Chennai,Excel,11,Raman
+AMTZ65,Customer BD,"Friday, June 15, 2018",66,Finance,Pune,Power,37,Amar
+AMTZ63,Customer BE,"Sunday, June 17, 2018",64,Finance,Bengaluru,PowerBI,30,Raman
+AMTZ64,Customer BD,"Sunday, June 17, 2018",65,Finance,Nagpur,Word,31,Amar
+AMTZ62,Customer BE,"Monday, June 18, 2018",63,Finance,New Delhi,Excel,15,Rajath
+AMTZ61,Customer BF,"Friday, June 22, 2018",62,Finance,Kolkata,Power,38,Rajath
+AMTZ59,Customer BG,"Sunday, July 1, 2018",60,Finance,Chennai,Office 365,40,Raman
+AMTZ60,Customer BF,"Sunday, July 1, 2018",61,Finance,Hyderabad,Word,17,Amar
+AMTZ58,Customer BG,"Wednesday, July 4, 2018",59,Finance,Pune,Outlook,25,Amar
+AMTZ56,Customer BH,"Thursday, July 12, 2018",57,Finance,Bengaluru,PowerBI,30,Raman
+AMTZ57,Customer BH,"Thursday, July 12, 2018",58,Finance,Nagpur,VBA,24,Amar
+AMTZ55,Customer BI,"Saturday, July 14, 2018",56,Finance,New Delhi,Excel,39,Rajath
+AMTZ54,Customer BI,"Tuesday, July 17, 2018",55,Finance,Kolkata,Power,39,Rajath
+AMTZ53,Customer BJ,"Friday, July 20, 2018",54,Finance,Hyderabad,Word,32,Amar
+AMTZ52,Customer BJ,"Tuesday, July 24, 2018",53,Finance,Chennai,Office 365,12,Raman
+AMTZ50,Customer BK,"Thursday, July 26, 2018",51,Finance,Nagpur,VBA,38,Amar
+AMTZ51,Customer BK,"Thursday, July 26, 2018",52,Finance,Pune,Outlook,18,Amar
+AMTZ49,Customer BL,"Friday, July 27, 2018",50,Finance,Bengaluru,PowerBI,36,Raman
+AMTZ48,Customer BL,"Saturday, July 28, 2018",49,Finance,New Delhi,Excel,25,Rajath
+AMTZ47,Customer C,"Sunday, July 29, 2018",48,Admin,Kolkata,Power,20,Rajath
+AMTZ46,Customer C,"Saturday, August 4, 2018",47,Admin,Chennai,Word,18,Raman
+AMTZ45,Customer D,"Tuesday, August 14, 2018",46,Admin,Pune,PowerBI,23,Amar
+AMTZ44,Customer D,"Sunday, August 19, 2018",45,Admin,Nagpur,Excel,14,Amar
+AMTZ43,Customer E,"Friday, August 24, 2018",44,Admin,Bengaluru,Power,19,Raman
+AMTZ42,Customer E,"Tuesday, September 11, 2018",43,Admin,New Delhi,Word,32,Rajath
+AMTZ41,Customer F,"Thursday, September 13, 2018",42,Admin,Kolkata,Office 365,27,Rajath
+AMTZ40,Customer F,"Friday, September 14, 2018",41,Admin,Hyderabad,Outlook,20,Amar
+AMTZ39,Customer G,"Saturday, September 15, 2018",40,Admin,Chennai,VBA,28,Raman
+AMTZ38,Customer G,"Friday, September 21, 2018",39,Admin,Pune,PowerBI,16,Amar
+AMTZ36,Customer H,"Saturday, September 22, 2018",37,Admin,Bengaluru,Power,23,Raman
+AMTZ37,Customer H,"Saturday, September 22, 2018",38,Admin,Nagpur,Excel,34,Amar
+AMTZ34,Customer I,"Thursday, September 27, 2018",35,Admin,Kolkata,Office 365,24,Rajath
+AMTZ35,Customer I,"Thursday, September 27, 2018",36,Admin,New Delhi,Word,37,Rajath
+AMTZ33,Customer J,"Saturday, September 29, 2018",34,Admin,Hyderabad,Outlook,32,Amar
+AMTZ32,Customer J,"Wednesday, October 3, 2018",33,Admin,Chennai,VBA,19,Raman
+AMTZ30,Customer K,"Friday, October 5, 2018",31,HR,Nagpur,Excel,35,Amar
+AMTZ31,Customer K,"Friday, October 5, 2018",32,Admin,Pune,PowerBI,39,Amar
+AMTZ29,Customer L,"Saturday, October 6, 2018",30,HR,Bengaluru,Power,21,Raman
+AMTZ28,Customer L,"Tuesday, October 16, 2018",29,HR,New Delhi,Word,32,Rajath
+AMTZ27,Customer M,"Thursday, October 18, 2018",28,HR,Kolkata,Office 365,10,Rajath
+AMTZ26,Customer M,"Friday, October 19, 2018",27,HR,Chennai,Outlook,27,Raman
+AMTZ24,Customer N,"Saturday, October 20, 2018",25,HR,Nagpur,PowerBI,40,Amar
+AMTZ25,Customer N,"Saturday, October 20, 2018",26,HR,Pune,VBA,14,Amar
+AMTZ23,Customer O,"Wednesday, October 24, 2018",24,HR,Bengaluru,Excel,34,Raman
+AMTZ22,Customer O,"Thursday, October 25, 2018",23,HR,New Delhi,Power,15,Rajath
+AMTZ21,Customer P,"Friday, October 26, 2018",22,HR,Kolkata,Word,28,Rajath
+AMTZ20,Customer P,"Sunday, October 28, 2018",21,HR,Hyderabad,Office 365,36,Amar
+AMTZ18,Customer Q,"Monday, October 29, 2018",19,HR,Pune,VBA,39,Amar
+AMTZ19,Customer Q,"Monday, October 29, 2018",20,HR,Chennai,Outlook,25,Raman
+AMTZ17,Customer Q,"Thursday, November 1, 2018",18,Finance,Nagpur,PowerBI,38,Amar
+AMTZ16,Customer R,"Friday, November 2, 2018",17,Finance,Bengaluru,Excel,23,Raman
+AMTZ15,Customer R,"Saturday, November 10, 2018",16,Finance,New Delhi,Power,34,Rajath
+AMTZ14,Customer S,"Tuesday, November 13, 2018",15,Finance,Kolkata,Word,32,Rajath
+AMTZ13,Customer S,"Friday, November 16, 2018",14,Finance,Hyderabad,Office 365,33,Amar
+AMTZ12,Customer T,"Monday, November 19, 2018",13,Finance,Chennai,Outlook,11,Raman
+AMTZ11,Customer T,"Tuesday, November 20, 2018",12,Finance,Pune,VBA,17,Amar
+AMTZ10,Customer U,"Wednesday, November 28, 2018",11,Finance,Nagpur,PowerBI,24,Amar
+AMTZ147,Customer U,"Wednesday, November 28, 2018",150,Finance,Nagpur,PowerBI,24,Amar
+AMTZ163,Customer U,"Wednesday, November 28, 2018",165,Finance,Nagpur,PowerBI,24,Amar
+AMTZ178,Customer U,"Wednesday, November 28, 2018",180,Finance,Nagpur,PowerBI,24,Amar
+AMTZ193,Customer U,"Wednesday, November 28, 2018",195,Finance,Nagpur,PowerBI,24,Amar
+AMTZ208,Customer U,"Wednesday, November 28, 2018",210,Finance,Nagpur,PowerBI,24,Amar
+AMTZ223,Customer U,"Wednesday, November 28, 2018",225,Finance,Nagpur,PowerBI,24,Amar
+AMTZ9,Customer U,"Thursday, November 29, 2018",10,Finance,Bengaluru,Excel,24,Raman
+AMTZ146,Customer U,"Thursday, November 29, 2018",149,Finance,Bengaluru,Excel,24,Raman
+AMTZ162,Customer U,"Thursday, November 29, 2018",164,Finance,Bengaluru,Excel,24,Raman
+AMTZ177,Customer U,"Thursday, November 29, 2018",179,Finance,Bengaluru,Excel,24,Raman
+AMTZ192,Customer U,"Thursday, November 29, 2018",194,Finance,Bengaluru,Excel,24,Raman
+AMTZ207,Customer U,"Thursday, November 29, 2018",209,Finance,Bengaluru,Excel,24,Raman
+AMTZ222,Customer U,"Thursday, November 29, 2018",224,Finance,Bengaluru,Excel,24,Raman
+AMTZ231,Customer Z,"Friday, November 30, 2018",Student233,Finance,New Delhi,Power,30,Rajath
+AMTZ8,Customer V,"Friday, November 30, 2018",9,Finance,New Delhi,Power,30,Rajath
+AMTZ145,Customer V,"Friday, November 30, 2018",148,Finance,New Delhi,Power,30,Rajath
+AMTZ148,Customer Z,"Friday, November 30, 2018",151,Finance,New Delhi,Power,30,Rajath
+AMTZ149,Customer Y,"Friday, November 30, 2018",152,Finance,New Delhi,Power,30,Rajath
+AMTZ150,Customer Y,"Friday, November 30, 2018",153,Finance,New Delhi,Power,30,Rajath
+AMTZ151,Customer X,"Friday, November 30, 2018",154,Finance,New Delhi,Power,30,Rajath
+AMTZ152,Customer X,"Friday, November 30, 2018",155,Finance,New Delhi,Power,30,Rajath
+AMTZ153,Customer W,"Friday, November 30, 2018",156,Finance,New Delhi,Power,30,Rajath
+AMTZ154,Customer W,"Friday, November 30, 2018",157,Finance,New Delhi,Power,30,Rajath
+AMTZ155,Customer Z,"Friday, November 30, 2018",158,Finance,New Delhi,Power,30,Rajath
+AMTZ156,Vijay Perepa,"Friday, November 30, 2018",158,Finance,New Delhi,Power,26,Rajath
+AMTZ161,Customer V,"Friday, November 30, 2018",163,Finance,New Delhi,Power,30,Rajath
+AMTZ164,Customer Z,"Friday, November 30, 2018",166,Finance,New Delhi,Power,30,Rajath
+AMTZ165,Customer Y,"Friday, November 30, 2018",167,Finance,New Delhi,Power,30,Rajath
+AMTZ166,Customer Y,"Friday, November 30, 2018",168,Finance,New Delhi,Power,30,Rajath
+AMTZ167,Customer X,"Friday, November 30, 2018",169,Finance,New Delhi,Power,30,Rajath
+AMTZ168,Customer X,"Friday, November 30, 2018",170,Finance,New Delhi,Power,30,Rajath
+AMTZ169,Customer W,"Friday, November 30, 2018",171,Finance,New Delhi,Power,30,Rajath
+AMTZ170,Customer W,"Friday, November 30, 2018",172,Finance,New Delhi,Power,30,Rajath
+AMTZ171,Customer Z,"Friday, November 30, 2018",173,Finance,New Delhi,Power,30,Rajath
+AMTZ176,Customer V,"Friday, November 30, 2018",178,Finance,New Delhi,Power,30,Rajath
+AMTZ179,Customer Z,"Friday, November 30, 2018",181,Finance,New Delhi,Power,30,Rajath
+AMTZ180,Customer Y,"Friday, November 30, 2018",182,Finance,New Delhi,Power,30,Rajath
+AMTZ181,Customer Y,"Friday, November 30, 2018",183,Finance,New Delhi,Power,30,Rajath
+AMTZ182,Customer X,"Friday, November 30, 2018",184,Finance,New Delhi,Power,30,Rajath
+AMTZ183,Customer X,"Friday, November 30, 2018",185,Finance,New Delhi,Power,30,Rajath
+AMTZ184,Customer W,"Friday, November 30, 2018",186,Finance,New Delhi,Power,30,Rajath
+AMTZ185,Customer W,"Friday, November 30, 2018",187,Finance,New Delhi,Power,30,Rajath
+AMTZ186,Customer Z,"Friday, November 30, 2018",188,Finance,New Delhi,Power,30,Rajath
+AMTZ191,Customer V,"Friday, November 30, 2018",193,Finance,New Delhi,Power,30,Rajath
+AMTZ194,Customer Z,"Friday, November 30, 2018",196,Finance,New Delhi,Power,30,Rajath
+AMTZ195,Customer Y,"Friday, November 30, 2018",197,Finance,New Delhi,Power,30,Rajath
+AMTZ196,Customer Y,"Friday, November 30, 2018",198,Finance,New Delhi,Power,30,Rajath
+AMTZ197,Customer X,"Friday, November 30, 2018",199,Finance,New Delhi,Power,30,Rajath
+AMTZ198,Customer X,"Friday, November 30, 2018",200,Finance,New Delhi,Power,30,Rajath
+AMTZ199,Customer W,"Friday, November 30, 2018",201,Finance,New Delhi,Power,30,Rajath
+AMTZ200,Customer W,"Friday, November 30, 2018",202,Finance,New Delhi,Power,30,Rajath
+AMTZ201,Customer Z,"Friday, November 30, 2018",203,Finance,New Delhi,Power,30,Rajath
+AMTZ206,Customer V,"Friday, November 30, 2018",208,Finance,New Delhi,Power,30,Rajath
+AMTZ209,Customer Z,"Friday, November 30, 2018",211,Finance,New Delhi,Power,30,Rajath
+AMTZ210,Customer Y,"Friday, November 30, 2018",212,Finance,New Delhi,Power,30,Rajath
+AMTZ211,Customer Y,"Friday, November 30, 2018",213,Finance,New Delhi,Power,30,Rajath
+AMTZ212,Customer X,"Friday, November 30, 2018",214,Finance,New Delhi,Power,30,Rajath
+AMTZ213,Customer X,"Friday, November 30, 2018",215,Finance,New Delhi,Power,30,Rajath
+AMTZ214,Customer W,"Friday, November 30, 2018",216,Finance,New Delhi,Power,30,Rajath
+AMTZ215,Customer W,"Friday, November 30, 2018",217,Finance,New Delhi,Power,30,Rajath
+AMTZ216,Customer Z,"Friday, November 30, 2018",218,Finance,New Delhi,Power,30,Rajath
+AMTZ221,Customer V,"Friday, November 30, 2018",223,Finance,New Delhi,Power,30,Rajath
+AMTZ224,Customer Z,"Friday, November 30, 2018",226,Finance,New Delhi,Power,30,Rajath
+AMTZ225,Customer Y,"Friday, November 30, 2018",227,Finance,New Delhi,Power,30,Rajath
+AMTZ226,Customer Y,"Friday, November 30, 2018",228,Finance,New Delhi,Power,30,Rajath
+AMTZ227,Customer X,"Friday, November 30, 2018",229,Finance,New Delhi,Power,30,Rajath
+AMTZ228,Customer X,"Friday, November 30, 2018",230,Finance,New Delhi,Power,30,Rajath
+AMTZ229,Customer W,"Friday, November 30, 2018",231,Finance,New Delhi,Power,30,Rajath
+AMTZ230,Customer W,"Friday, November 30, 2018",232,Finance,New Delhi,Power,30,Rajath
+AMTZ231,Customer Z,"Friday, November 30, 2018",233,Finance,New Delhi,Power,30,Rajath
+AMTZ7,Customer V,"Sunday, December 2, 2018",8,Finance,Kolkata,Word,18,Rajath
+AMTZ144,Customer V,"Sunday, December 2, 2018",147,Finance,Kolkata,Word,18,Rajath
+AMTZ160,Customer V,"Sunday, December 2, 2018",162,Finance,Kolkata,Word,18,Rajath
+AMTZ175,Customer V,"Sunday, December 2, 2018",177,Finance,Kolkata,Word,18,Rajath
+AMTZ190,Customer V,"Sunday, December 2, 2018",192,Finance,Kolkata,Word,18,Rajath
+AMTZ205,Customer V,"Sunday, December 2, 2018",207,Finance,Kolkata,Word,18,Rajath
+AMTZ220,Customer V,"Sunday, December 2, 2018",222,Finance,Kolkata,Word,18,Rajath
+AMTZ6,Customer W,"Thursday, December 6, 2018",7,Finance,Chennai,Office 365,25,Raman
+AMTZ143,Customer W,"Thursday, December 6, 2018",146,Finance,Chennai,Office 365,25,Raman
+AMTZ159,Customer W,"Thursday, December 6, 2018",161,Finance,Chennai,Office 365,25,Raman
+AMTZ174,Customer W,"Thursday, December 6, 2018",176,Finance,Chennai,Office 365,25,Raman
+AMTZ189,Customer W,"Thursday, December 6, 2018",191,Finance,Chennai,Office 365,25,Raman
+AMTZ204,Customer W,"Thursday, December 6, 2018",206,Finance,Chennai,Office 365,25,Raman
+AMTZ219,Customer W,"Thursday, December 6, 2018",221,Finance,Chennai,Office 365,25,Raman
+AMTZ5,Customer W,"Saturday, December 15, 2018",6,Finance,New Delhi,Outlook,18,Rajath
+AMTZ142,Customer W,"Saturday, December 15, 2018",145,Finance,New Delhi,Outlook,18,Rajath
+AMTZ158,Customer W,"Saturday, December 15, 2018",160,Finance,New Delhi,Outlook,18,Rajath
+AMTZ173,Customer W,"Saturday, December 15, 2018",175,Finance,New Delhi,Outlook,18,Rajath
+AMTZ188,Customer W,"Saturday, December 15, 2018",190,Finance,New Delhi,Outlook,18,Rajath
+AMTZ203,Customer W,"Saturday, December 15, 2018",205,Finance,New Delhi,Outlook,18,Rajath
+AMTZ218,Customer W,"Saturday, December 15, 2018",220,Finance,New Delhi,Outlook,18,Rajath
+AMTZ4,Customer X,"Tuesday, December 18, 2018",4,Finance,Nagpur,PowerBI,22,Amar
+AMTZ140,Customer X,"Tuesday, December 18, 2018",143,Finance,Nagpur,PowerBI,22,Amar
+AMTZ2,Customer Y,"Tuesday, December 25, 2018",2,Finance,New Delhi,Power,9,Rajath
+AMTZ3,Customer Y,"Tuesday, December 25, 2018",3,Finance,Bengaluru,Excel,39,Raman
+AMTZ138,Customer Y,"Tuesday, December 25, 2018",141,Finance,New Delhi,Power,9,Rajath
+AMTZ139,Customer Y,"Tuesday, December 25, 2018",142,Finance,Bengaluru,Excel,39,Raman
+AMTZ1,Customer Z,"Sunday, December 30, 2018",1,Finance,Kolkata,Word,19,Rajath
+AMTZ137,Customer Z,"Sunday, December 30, 2018",140,Finance,Kolkata,Word,19,Rajath
+AMTZ217,Customer X,"Tuesday, January 1, 2019",219,Finance,Pune,VBA,8,Amar
+AMTZ223,Customer U,"Thursday, November 28, 2019",225,Finance,Nagpur,PowerBI,24,Amar
+AMTZ236,Customer U,"Thursday, November 28, 2019",238,Finance,New Delhi,Power,30,Rajath
+AMTZ236,Customer U,"Thursday, November 28, 2019",248,Finance,New Delhi,Power,30,Rajath
+AMTZ222,Customer U,"Friday, November 29, 2019",224,Finance,Bengaluru,Excel,24,Raman
+AMTZ235,Customer U,"Friday, November 29, 2019",237,Finance,New Delhi,Power,30,Rajath
+AMTZ235,Customer U,"Friday, November 29, 2019",247,Finance,New Delhi,Power,30,Rajath
+AMTZ214,Customer W,"Saturday, November 30, 2019",216,Finance,New Delhi,Power,30,Rajath
+AMTZ215,Customer W,"Saturday, November 30, 2019",217,Finance,New Delhi,Power,30,Rajath
+AMTZ216,Customer Z,"Saturday, November 30, 2019",218,Finance,New Delhi,Power,30,Rajath
+AMTZ221,Customer V,"Saturday, November 30, 2019",223,Finance,New Delhi,Power,30,Rajath
+AMTZ224,Customer Z,"Saturday, November 30, 2019",226,Finance,New Delhi,Power,30,Rajath
+AMTZ225,Customer Y,"Saturday, November 30, 2019",227,Finance,New Delhi,Power,30,Rajath
+AMTZ226,Customer Y,"Saturday, November 30, 2019",228,Finance,New Delhi,Power,30,Rajath
+AMTZ227,Customer X,"Saturday, November 30, 2019",229,Finance,New Delhi,Power,30,Rajath
+AMTZ228,Customer X,"Saturday, November 30, 2019",230,Finance,New Delhi,Power,30,Rajath
+AMTZ229,Customer W,"Saturday, November 30, 2019",231,Finance,New Delhi,Power,30,Rajath
+AMTZ230,Customer W,"Saturday, November 30, 2019",232,Finance,New Delhi,Power,30,Rajath
+AMTZ231,Customer Z,"Saturday, November 30, 2019",233,Finance,New Delhi,Power,30,Rajath
+AMTZ234,Customer V,"Saturday, November 30, 2019",236,Finance,Nagpur,PowerBI,24,Amar
+AMTZ237,Customer Z,"Saturday, November 30, 2019",239,Finance,New Delhi,Power,30,Rajath
+AMTZ228,Customer X,"Saturday, November 30, 2019",240,Finance,New Delhi,Power,30,Rajath
+AMTZ229,Customer W,"Saturday, November 30, 2019",241,Finance,New Delhi,Power,30,Rajath
+AMTZ230,Customer W,"Saturday, November 30, 2019",242,Finance,New Delhi,Power,30,Rajath
+AMTZ231,Customer Z,"Saturday, November 30, 2019",243,Finance,New Delhi,Power,30,Rajath
+AMTZ234,Customer V,"Saturday, November 30, 2019",246,Finance,Nagpur,PowerBI,24,Amar
+AMTZ237,Another,"Saturday, November 30, 2019",249,Finance,New Delhi,Power,30,Rajath
+Some Number,PerepaEdu,"Saturday, November 30, 2019",249,Finance,New Delhi,Excel,30,Rajath
+AMTZ237,Customer Z,"Saturday, November 30, 2019",239,Finance,Kanpur,Power,30,Amar
+,Vijay Perepa,"Saturday, November 30, 2019",239,Finance,Kanpur,Power,#DIV/0!,Amar
+AMTZ220,Customer V,"Monday, December 2, 2019",222,Finance,Kolkata,Word,18,Rajath
+AMTZ233,Customer V,"Monday, December 2, 2019",235,Finance,Bengaluru,Excel,24,Raman
+AMTZ233,Customer V,"Monday, December 2, 2019",245,Finance,Bengaluru,Excel,24,Raman
+AMTZ219,Customer W,"Friday, December 6, 2019",221,Finance,Chennai,Office 365,25,Raman
+AMTZ232,Customer W,"Friday, December 6, 2019",234,Finance,New Delhi,Power,30,Rajath
+AMTZ232,Customer W,"Friday, December 6, 2019",244,Finance,New Delhi,Power,30,Rajath
+AMTZ218,Customer W,"Sunday, December 15, 2019",220,Finance,New Delhi,Outlook,18,Rajath
+AMTZ236,Customer U,"Saturday, November 28, 2020",248,      FInAncE     ,New Delhi,Power,30,Rajath
+AMTZ235,Customer U,"Sunday, November 29, 2020",247,      FInAncE     ,New Delhi,Power,30,Rajath
+AMTZ231,Customer Z,"Monday, November 30, 2020",243,      FInAncE     ,New Delhi,Power,30,Rajath
+AMTZ234,Customer V,"Monday, November 30, 2020",246,      FInAncE     ,Nagpur,PowerBI,24,Amar
+AMTZ237,Another,"Monday, November 30, 2020",249,      FInAncE     ,New Delhi,Power,30,Rajath
+Some Number,PerepaEdu,"Monday, November 30, 2020",249,      FInAncE     ,New Delhi,Excel,30,Rajath
+AMTZ1234,Vijay Perepa,"Monday, November 30, 2020",249,      FInAncE     ,New Delhi,Power,30,Rajath
+,DELL,"Monday, November 30, 2020",249,      FInAncE     ,New Delhi,Power,30,Rajath
+,Hexa,"Monday, November 30, 2020",249,      FInAncE     ,New Delhi,Excel,#DIV/0!,Rajath
+,Hexa2,"Monday, November 30, 2020",249,      FInAncE     ,New Delhi,Excel,30,Rajath
+,Hexa3,"Monday, November 30, 2020",249,      FInAncE     ,New Delhi,Excel,30,Rajath
+,ESI,"Monday, November 30, 2020",249,      FInAncE     ,New Delhi,Excel,#DIV/0!,Rajath
+,ESI,"Monday, November 30, 2020",249,Finance,New Delhi,Excel,30,Rajath
+,ESI,"Monday, November 30, 2020",249,Finance,New Delhi,Excel,30,Rajath
+AMTZ233,Customer V,"Wednesday, December 2, 2020",245,      FInAncE     ,Bengaluru,Excel,24,Raman
+AMTZ232,Customer W,"Sunday, December 6, 2020",244,      FInAncE     ,New Delhi,Power,30,Rajath
+AMTZ128,Customer A,"Thursday, January 7, 2021",130,Admin,Chennai,PowerBI,26,Raman
+AMTZ128,Customer A,"Thursday, January 7, 2021",131,Admin,Chennai,PowerBI,26,Raman
+customer unique,customer unique,"Thursday, January 7, 2021",132,Admin,Chennai,PowerBI,26,Raman
+AMTZ141,Customer A,"Thursday, January 7, 2021",130,Admin,Chennai,PowerBI,26,Raman
+AMTZ142,Customer A,"Thursday, January 7, 2021",131,Admin,Chennai,PowerBI,26,Raman
+AMTZ127,Customer A,"Sunday, January 10, 2021",129,Admin,Pune,Excel,26,Amar
+AMTZ140,Customer A,"Sunday, January 10, 2021",129,Admin,Pune,Excel,26,Amar
+AMTZ125,Customer AA,"Monday, January 11, 2021",127,Admin,Pune,Outlook,37,Amar
+AMTZ126,Customer A,"Monday, January 11, 2021",128,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Monday, January 11, 2021",133,Admin,Pune,Outlook,37,Amar
+AMTZ136,Customer AB,"Monday, January 11, 2021",134,Admin,Pune,Outlook,100,Amar
+AMTZ137,Customer AB,"Monday, January 11, 2021",135,Admin,Pune,Outlook,100,Amar
+AMTZ138,Customer AB,"Monday, January 11, 2021",136,Admin,Pune,Outlook,37,Amar
+AMTZ139,Customer A,"Monday, January 11, 2021",128,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Monday, January 11, 2021",132,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Monday, January 11, 2021",133,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Monday, January 11, 2021",134,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Monday, January 11, 2021",135,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Monday, January 11, 2021",136,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Monday, January 11, 2021",137,Admin,Chennai,Office 365,8,Raman
+AMTZ135,Customer AA,"Monday, January 11, 2021",138,Admin,Chennai,Office 365,8,Raman
+AMTZ136,Customer AA,"Monday, January 11, 2021",139,Admin,Chennai,Office 365,234,Raman
+AMTZ122,Customer AB,"Wednesday, January 13, 2021",124,Admin,New Delhi,Excel,33,Rajath
+AMTZ123,Customer AB,"Wednesday, January 13, 2021",125,Admin,Bengaluru,PowerBI,21,Raman
+AMTZ124,Customer AA,"Wednesday, January 13, 2021",126,Admin,Nagpur,VBA,25,Amar
+AMTZ121,Customer AB,"Friday, January 15, 2021",123,Admin,Kolkata,Power,10,Rajath
+AMTZ120,Customer AC,"Saturday, January 16, 2021",122,Admin,Hyderabad,Word,8,Amar
+AMTZ119,Customer AC,"Thursday, January 21, 2021",121,Admin,Chennai,Office 365,17,Raman
+AMTZ118,Customer AD,"Friday, January 22, 2021",120,Admin,Pune,Outlook,30,Amar
+AMTZ117,Customer AD,"Friday, January 29, 2021",119,Admin,Nagpur,VBA,24,Amar
+AMTZ116,Customer AE,"Sunday, January 31, 2021",118,Admin,Bengaluru,PowerBI,31,Raman
+AMTZ115,Customer AE,"Monday, February 1, 2021",117,Finance,New Delhi,Excel,30,Rajath
+AMTZ114,Customer AF,"Tuesday, February 2, 2021",116,Finance,Kolkata,Power,15,Rajath
+AMTZ113,Customer AF,"Wednesday, February 3, 2021",115,Finance,Hyderabad,Word,19,Amar
+AMTZ112,Customer AG,"Tuesday, February 9, 2021",114,Finance,Chennai,Office 365,40,Raman
+AMTZ111,Customer AG,"Thursday, February 11, 2021",113,Finance,Pune,Outlook,21,Amar
+AMTZ110,Customer AH,"Sunday, February 14, 2021",111,Finance,Nagpur,PowerBI,28,Amar
+AMTZ110,Customer AH,"Sunday, February 14, 2021",112,Finance,New Delhi,VBA,25,Rajath
+AMTZ109,Customer AI,"Thursday, February 18, 2021",110,Finance,Bengaluru,Excel,15,Raman
+AMTZ108,Customer AI,"Saturday, February 20, 2021",109,Finance,New Delhi,Power,27,Rajath
+AMTZ107,Customer AJ,"Monday, February 22, 2021",108,Finance,Kolkata,Word,19,Rajath
+AMTZ105,Customer AK,"Wednesday, March 3, 2021",106,Finance,Pune,Outlook,21,Amar
+AMTZ106,Customer AJ,"Wednesday, March 3, 2021",107,Finance,Chennai,Office 365,9,Raman
+AMTZ104,Customer AK,"Thursday, March 4, 2021",105,Finance,Nagpur,VBA,33,Amar
+AMTZ103,Customer AL,"Monday, March 8, 2021",104,Finance,Bengaluru,PowerBI,33,Raman
+AMTZ102,Customer AL,"Tuesday, March 9, 2021",103,Finance,New Delhi,Excel,19,Rajath
+AMTZ101,Customer AM,"Sunday, March 21, 2021",102,Finance,Kolkata,Power,20,Rajath
+AMTZ99,Customer AN,"Monday, March 22, 2021",100,Finance,Chennai,Office 365,34,Raman
+AMTZ100,Customer AM,"Monday, March 22, 2021",101,Finance,Hyderabad,Word,11,Amar
+AMTZ98,Customer AN,"Thursday, March 25, 2021",99,HR,Pune,Outlook,39,Amar
+AMTZ97,Customer AO,"Friday, March 26, 2021",98,HR,Nagpur,VBA,23,Amar
+AMTZ96,Customer AO,"Saturday, April 3, 2021",97,HR,Bengaluru,PowerBI,25,Raman
+AMTZ95,Customer AP,"Sunday, April 4, 2021",96,HR,New Delhi,Excel,19,Rajath
+AMTZ94,Customer AP,"Thursday, April 8, 2021",95,HR,Kolkata,Power,10,Rajath
+AMTZ93,Customer AQ,"Friday, April 9, 2021",94,HR,Hyderabad,Word,11,Amar
+AMTZ92,Customer AQ,"Wednesday, April 14, 2021",93,HR,Chennai,Outlook,18,Raman
+AMTZ91,Customer AR,"Thursday, April 15, 2021",92,HR,Pune,VBA,35,Amar
+AMTZ90,Customer AR,"Saturday, April 17, 2021",91,HR,Nagpur,PowerBI,36,Amar
+AMTZ89,Customer AS,"Saturday, April 24, 2021",90,HR,Bengaluru,Excel,31,Raman
+AMTZ88,Customer AS,"Sunday, April 25, 2021",89,HR,New Delhi,Power,11,Rajath
+AMTZ87,Customer AT,"Monday, April 26, 2021",88,HR,Kolkata,Word,20,Rajath
+AMTZ86,Customer AT,"Tuesday, April 27, 2021",87,HR,Chennai,Outlook,29,Raman
+AMTZ85,Customer AU,"Tuesday, May 4, 2021",86,HR,Pune,VBA,15,Amar
+AMTZ84,Customer AU,"Saturday, May 8, 2021",85,HR,Nagpur,PowerBI,15,Amar
+AMTZ83,Customer AV,"Sunday, May 9, 2021",84,HR,Bengaluru,Excel,12,Raman
+AMTZ82,Customer AV,"Friday, May 14, 2021",83,HR,New Delhi,Power,21,Rajath
+AMTZ79,Customer AX,"Saturday, May 15, 2021",80,HR,Chennai,VBA,22,Raman
+AMTZ80,Customer AW,"Saturday, May 15, 2021",81,HR,Hyderabad,Outlook,27,Amar
+AMTZ81,Customer AW,"Saturday, May 15, 2021",82,HR,Kolkata,Word,11,Rajath
+AMTZ78,Customer AX,"Sunday, May 16, 2021",79,HR,Pune,PowerBI,13,Amar
+AMTZ77,Customer AY,"Monday, May 17, 2021",78,HR,Nagpur,Excel,37,Amar
+AMTZ76,Customer AY,"Tuesday, May 18, 2021",77,HR,Bengaluru,Power,35,Raman
+AMTZ75,Customer AZ,"Thursday, May 20, 2021",76,HR,New Delhi,Word,21,Rajath
+AMTZ74,Customer AZ,"Sunday, May 23, 2021",75,HR,Kolkata,VBA,27,Rajath
+AMTZ73,Customer B,"Monday, May 24, 2021",74,HR,Hyderabad,PowerBI,9,Amar
+AMTZ70,Customer BA,"Tuesday, May 25, 2021",71,Admin,Nagpur,Word,39,Amar
+AMTZ71,Customer BA,"Tuesday, May 25, 2021",72,Admin,Pune,Power,15,Amar
+AMTZ72,Customer B,"Tuesday, May 25, 2021",73,HR,Chennai,Excel,28,Raman
+AMTZ69,Customer BB,"Tuesday, June 1, 2021",70,Admin,Bengaluru,Outlook,33,Raman
+AMTZ68,Customer BB,"Wednesday, June 2, 2021",69,Admin,New Delhi,VBA,19,Rajath
+AMTZ67,Customer BC,"Saturday, June 5, 2021",68,Admin,Kolkata,PowerBI,31,Rajath
+AMTZ66,Customer BC,"Thursday, June 10, 2021",67,Finance,Chennai,Excel,11,Raman
+AMTZ65,Customer BD,"Tuesday, June 15, 2021",66,Finance,Pune,Power,37,Amar
+AMTZ63,Customer BE,"Thursday, June 17, 2021",64,Finance,Bengaluru,PowerBI,30,Raman
+AMTZ64,Customer BD,"Thursday, June 17, 2021",65,Finance,Nagpur,Word,31,Amar
+AMTZ62,Customer BE,"Friday, June 18, 2021",63,Finance,New Delhi,Excel,15,Rajath
+AMTZ61,Customer BF,"Tuesday, June 22, 2021",62,Finance,Kolkata,Power,38,Rajath
+AMTZ59,Customer BG,"Thursday, July 1, 2021",60,Finance,Chennai,Office 365,40,Raman
+AMTZ60,Customer BF,"Thursday, July 1, 2021",61,Finance,Hyderabad,Word,17,Amar
+AMTZ58,Customer BG,"Sunday, July 4, 2021",59,Finance,Pune,Outlook,25,Amar
+AMTZ56,Customer BH,"Monday, July 12, 2021",57,Finance,Bengaluru,PowerBI,30,Raman
+AMTZ57,Customer BH,"Monday, July 12, 2021",58,Finance,Nagpur,VBA,24,Amar
+AMTZ55,Customer BI,"Wednesday, July 14, 2021",56,Finance,New Delhi,Excel,39,Rajath
+AMTZ54,Customer BI,"Saturday, July 17, 2021",55,Finance,Kolkata,Power,39,Rajath
+AMTZ53,Customer BJ,"Tuesday, July 20, 2021",54,Finance,Hyderabad,Word,32,Amar
+AMTZ52,Customer BJ,"Saturday, July 24, 2021",53,Finance,Chennai,Office 365,12,Raman
+AMTZ50,Customer BK,"Monday, July 26, 2021",51,Finance,Nagpur,VBA,38,Amar
+AMTZ51,Customer BK,"Monday, July 26, 2021",52,Finance,Pune,Outlook,18,Amar
+AMTZ49,Customer BL,"Tuesday, July 27, 2021",50,Finance,Bengaluru,PowerBI,36,Raman
+AMTZ48,Customer BL,"Wednesday, July 28, 2021",49,Finance,New Delhi,Excel,25,Rajath
+AMTZ47,Customer C,"Thursday, July 29, 2021",48,Admin,Kolkata,Power,20,Rajath
+AMTZ46,Customer C,"Wednesday, August 4, 2021",47,Admin,Chennai,Word,18,Raman
+AMTZ45,Customer D,"Saturday, August 14, 2021",46,Admin,Pune,PowerBI,23,Amar
+AMTZ44,Customer D,"Thursday, August 19, 2021",45,Admin,Nagpur,Excel,14,Amar
+AMTZ43,Customer E,"Tuesday, August 24, 2021",44,Admin,Bengaluru,Power,19,Raman
+AMTZ42,Customer E,"Saturday, September 11, 2021",43,Admin,New Delhi,Word,32,Rajath
+AMTZ41,Customer F,"Monday, September 13, 2021",42,Admin,Kolkata,Office 365,27,Rajath
+AMTZ40,Customer F,"Tuesday, September 14, 2021",41,Admin,Hyderabad,Outlook,20,Amar
+AMTZ39,Customer G,"Wednesday, September 15, 2021",40,Admin,Chennai,VBA,28,Raman
+AMTZ38,Customer G,"Tuesday, September 21, 2021",39,Admin,Pune,PowerBI,16,Amar
+AMTZ36,Customer H,"Wednesday, September 22, 2021",37,Admin,Bengaluru,Power,23,Raman
+AMTZ37,Customer H,"Wednesday, September 22, 2021",38,Admin,Nagpur,Excel,34,Amar
+AMTZ34,Customer I,"Monday, September 27, 2021",35,Admin,Kolkata,Office 365,24,Rajath
+AMTZ35,Customer I,"Monday, September 27, 2021",36,Admin,New Delhi,Word,37,Rajath
+AMTZ33,Customer J,"Wednesday, September 29, 2021",34,Admin,Hyderabad,Outlook,32,Amar
+AMTZ32,Customer J,"Sunday, October 3, 2021",33,Admin,Chennai,VBA,19,Raman
+AMTZ30,Customer K,"Tuesday, October 5, 2021",31,HR,Nagpur,Excel,35,Amar
+AMTZ31,Customer K,"Tuesday, October 5, 2021",32,Admin,Pune,PowerBI,39,Amar
+AMTZ29,Customer L,"Wednesday, October 6, 2021",30,HR,Bengaluru,Power,21,Raman
+AMTZ28,Customer L,"Saturday, October 16, 2021",29,HR,New Delhi,Word,32,Rajath
+AMTZ27,Customer M,"Monday, October 18, 2021",28,HR,Kolkata,Office 365,10,Rajath
+AMTZ26,Customer M,"Tuesday, October 19, 2021",27,HR,Chennai,Outlook,27,Raman
+AMTZ24,Customer N,"Wednesday, October 20, 2021",25,HR,Nagpur,PowerBI,40,Amar
+AMTZ25,Customer N,"Wednesday, October 20, 2021",26,HR,Pune,VBA,14,Amar
+AMTZ23,Customer O,"Sunday, October 24, 2021",24,HR,Bengaluru,Excel,34,Raman
+AMTZ22,Customer O,"Monday, October 25, 2021",23,HR,New Delhi,Power,15,Rajath
+AMTZ21,Customer P,"Tuesday, October 26, 2021",22,HR,Kolkata,Word,28,Rajath
+AMTZ20,Customer P,"Thursday, October 28, 2021",21,HR,Hyderabad,Office 365,36,Amar
+AMTZ18,Customer Q,"Friday, October 29, 2021",19,HR,Pune,VBA,39,Amar
+AMTZ19,Customer Q,"Friday, October 29, 2021",20,HR,Chennai,Outlook,25,Raman
+AMTZ17,Customer Q,"Monday, November 1, 2021",18,Finance,Nagpur,PowerBI,38,Amar
+AMTZ16,Customer R,"Tuesday, November 2, 2021",17,Finance,Bengaluru,Excel,23,Raman
+AMTZ15,Customer R,"Wednesday, November 10, 2021",16,Finance,New Delhi,Power,34,Rajath
+AMTZ14,Customer S,"Saturday, November 13, 2021",15,Finance,Kolkata,Word,32,Rajath
+AMTZ13,Customer S,"Tuesday, November 16, 2021",14,,Hyderabad,Excel,33,Amar
+AMTZ12,Customer T,"Friday, November 19, 2021",13, Finance     ,Chennai,Outlook,11,Raman
+AMTZ11,Customer T,"Saturday, November 20, 2021",12,      FInAncE     ,Pune,VBA,17,Amar
+AMTZ10,Customer U,"Sunday, November 28, 2021",11, Finance     ,Nagpur,Excel,24,Amar
+AMTZ147,Customer U,"Sunday, November 28, 2021",150,Finance,Nagpur,PowerBI,24,Amar
+AMTZ163,Customer U,"Sunday, November 28, 2021",165,Finance,Nagpur,PowerBI,24,Amar
+AMTZ178,Customer U,"Sunday, November 28, 2021",180,Finance,Nagpur,PowerBI,24,Amar
+AMTZ193,Customer U,"Sunday, November 28, 2021",195,Finance,Nagpur,PowerBI,24,Amar
+AMTZ208,Customer U,"Sunday, November 28, 2021",210,Finance,Nagpur,PowerBI,24,Amar
+AMTZ223,Customer U,"Sunday, November 28, 2021",225,Finance,Nagpur,PowerBI,24,Amar
+AMTZ9,Customer U,"Monday, November 29, 2021",10, Finance     ,New Delhi,Excel,24,Rajath
+AMTZ146,Customer U,"Monday, November 29, 2021",149,Finance,Bengaluru,Excel,24,Raman
+AMTZ162,Customer U,"Monday, November 29, 2021",164,Finance,Bengaluru,Excel,24,Raman
+AMTZ177,Customer U,"Monday, November 29, 2021",179,Finance,Bengaluru,Excel,24,Raman
+AMTZ192,Customer U,"Monday, November 29, 2021",194,Finance,Bengaluru,Excel,24,Raman
+AMTZ207,Customer U,"Monday, November 29, 2021",209,Finance,Bengaluru,Excel,24,Raman
+AMTZ222,Customer U,"Monday, November 29, 2021",224,Finance,Bengaluru,Excel,24,Raman
+AMTZ8,Customer V,"Tuesday, November 30, 2021",9,      FInAncE     ,New Delhi,Power,30,Rajath
+AMTZ145,Customer V,"Tuesday, November 30, 2021",148,Finance,New Delhi,Power,30,Rajath
+AMTZ148,Customer Z,"Tuesday, November 30, 2021",151,Finance,New Delhi,Power,30,Rajath
+AMTZ149,Customer Y,"Tuesday, November 30, 2021",152,Finance,New Delhi,Power,30,Rajath
+AMTZ150,Customer Y,"Tuesday, November 30, 2021",153,Finance,New Delhi,Power,30,Rajath
+AMTZ151,Customer X,"Tuesday, November 30, 2021",154,Finance,New Delhi,Power,30,Rajath
+AMTZ152,Customer X,"Tuesday, November 30, 2021",155,Finance,New Delhi,Power,30,Rajath
+AMTZ153,Customer W,"Tuesday, November 30, 2021",156,Finance,New Delhi,Power,30,Rajath
+AMTZ154,Customer W,"Tuesday, November 30, 2021",157,Finance,New Delhi,Power,30,Rajath
+AMTZ155,Customer Z,"Tuesday, November 30, 2021",158,Finance,New Delhi,Power,30,Rajath
+AMTZ156,Vijay Perepa,"Tuesday, November 30, 2021",158,Finance,New Delhi,Power,26,Rajath
+AMTZ161,Customer V,"Tuesday, November 30, 2021",163,Finance,New Delhi,Power,30,Rajath
+AMTZ164,Customer Z,"Tuesday, November 30, 2021",166,Finance,New Delhi,Power,30,Rajath
+AMTZ165,Customer Y,"Tuesday, November 30, 2021",167,Finance,New Delhi,Power,30,Rajath
+AMTZ166,Customer Y,"Tuesday, November 30, 2021",168,Finance,New Delhi,Power,30,Rajath
+AMTZ167,Customer X,"Tuesday, November 30, 2021",169,Finance,New Delhi,Power,30,Rajath
+AMTZ168,Customer X,"Tuesday, November 30, 2021",170,Finance,New Delhi,Power,30,Rajath
+AMTZ169,Customer W,"Tuesday, November 30, 2021",171,Finance,New Delhi,Power,30,Rajath
+AMTZ170,Customer W,"Tuesday, November 30, 2021",172,Finance,New Delhi,Power,30,Rajath
+AMTZ171,Customer Z,"Tuesday, November 30, 2021",173,Finance,New Delhi,Power,30,Rajath
+AMTZ176,Customer V,"Tuesday, November 30, 2021",178,Finance,New Delhi,Power,30,Rajath
+AMTZ179,Customer Z,"Tuesday, November 30, 2021",181,Finance,New Delhi,Power,30,Rajath
+AMTZ180,Customer Y,"Tuesday, November 30, 2021",182,Finance,New Delhi,Power,30,Rajath
+AMTZ181,Customer Y,"Tuesday, November 30, 2021",183,Finance,New Delhi,Power,30,Rajath
+AMTZ182,Customer X,"Tuesday, November 30, 2021",184,Finance,New Delhi,Power,30,Rajath
+AMTZ183,Customer X,"Tuesday, November 30, 2021",185,Finance,New Delhi,Power,30,Rajath
+AMTZ184,Customer W,"Tuesday, November 30, 2021",186,Finance,New Delhi,Power,30,Rajath
+AMTZ185,Customer W,"Tuesday, November 30, 2021",187,Finance,New Delhi,Power,30,Rajath
+AMTZ186,Customer Z,"Tuesday, November 30, 2021",188,Finance,New Delhi,Power,30,Rajath
+AMTZ191,Customer V,"Tuesday, November 30, 2021",193,Finance,New Delhi,Power,30,Rajath
+AMTZ194,Customer Z,"Tuesday, November 30, 2021",196,Finance,New Delhi,Power,30,Rajath
+AMTZ195,Customer Y,"Tuesday, November 30, 2021",197,Finance,New Delhi,Power,30,Rajath
+AMTZ196,Customer Y,"Tuesday, November 30, 2021",198,Finance,New Delhi,Power,30,Rajath
+AMTZ197,Customer X,"Tuesday, November 30, 2021",199,Finance,New Delhi,Power,30,Rajath
+AMTZ198,Customer X,"Tuesday, November 30, 2021",200,Finance,New Delhi,Power,30,Rajath
+AMTZ199,Customer W,"Tuesday, November 30, 2021",201,Finance,New Delhi,Power,30,Rajath
+AMTZ200,Customer W,"Tuesday, November 30, 2021",202,Finance,New Delhi,Power,30,Rajath
+AMTZ201,Customer Z,"Tuesday, November 30, 2021",203,Finance,New Delhi,Power,30,Rajath
+AMTZ206,Customer V,"Tuesday, November 30, 2021",208,Finance,New Delhi,Power,30,Rajath
+AMTZ209,Customer Z,"Tuesday, November 30, 2021",211,Finance,New Delhi,Power,30,Rajath
+AMTZ210,Customer Y,"Tuesday, November 30, 2021",212,Finance,New Delhi,Power,30,Rajath
+AMTZ211,Customer Y,"Tuesday, November 30, 2021",213,Finance,New Delhi,Power,30,Rajath
+AMTZ212,Customer X,"Tuesday, November 30, 2021",214,Finance,New Delhi,Power,30,Rajath
+AMTZ213,Customer X,"Tuesday, November 30, 2021",215,Finance,New Delhi,Power,30,Rajath
+AMTZ214,Customer W,"Tuesday, November 30, 2021",216,Finance,New Delhi,Power,30,Rajath
+AMTZ215,Customer W,"Tuesday, November 30, 2021",217,Finance,New Delhi,Power,30,Rajath
+AMTZ216,Customer Z,"Tuesday, November 30, 2021",218,Finance,New Delhi,Power,30,Rajath
+AMTZ221,Customer V,"Tuesday, November 30, 2021",223,Finance,New Delhi,Power,30,Rajath
+AMTZ224,Customer Z,"Tuesday, November 30, 2021",226,Finance,New Delhi,Power,30,Rajath
+AMTZ225,Customer Y,"Tuesday, November 30, 2021",227,Finance,New Delhi,Power,30,Rajath
+AMTZ226,Customer Y,"Tuesday, November 30, 2021",228,Finance,New Delhi,Power,30,Rajath
+AMTZ227,Customer X,"Tuesday, November 30, 2021",229,Finance,New Delhi,Power,30,Rajath
+AMTZ228,Customer X,"Tuesday, November 30, 2021",230,Finance,New Delhi,Power,30,Rajath
+AMTZ229,Customer W,"Tuesday, November 30, 2021",231,Finance,New Delhi,Power,30,Rajath
+AMTZ230,Customer W,"Tuesday, November 30, 2021",232,Finance,New Delhi,Power,30,Rajath
+AMTZ7,Customer V,"Thursday, December 2, 2021",8, Finance     ,Kolkata,Word,18,Rajath
+AMTZ144,Customer V,"Thursday, December 2, 2021",147,Finance,Kolkata,Word,18,Rajath
+AMTZ160,Customer V,"Thursday, December 2, 2021",162,Finance,Kolkata,Word,18,Rajath
+AMTZ175,Customer V,"Thursday, December 2, 2021",177,Finance,Kolkata,Word,18,Rajath
+AMTZ190,Customer V,"Thursday, December 2, 2021",192,Finance,Kolkata,Word,18,Rajath
+AMTZ205,Customer V,"Thursday, December 2, 2021",207,Finance,Kolkata,Word,18,Rajath
+AMTZ220,Customer V,"Thursday, December 2, 2021",222,Finance,Kolkata,Word,18,Rajath
+AMTZ6,Customer W,"Monday, December 6, 2021",7,      FInAncE     ,New Delhi,Office 365,25,Rajath
+AMTZ143,Customer W,"Monday, December 6, 2021",146,Finance,Chennai,Office 365,25,Raman
+AMTZ159,Customer W,"Monday, December 6, 2021",161,Finance,Chennai,Office 365,25,Raman
+AMTZ174,Customer W,"Monday, December 6, 2021",176,Finance,Chennai,Office 365,25,Raman
+AMTZ189,Customer W,"Monday, December 6, 2021",191,Finance,Chennai,Office 365,25,Raman
+AMTZ204,Customer W,"Monday, December 6, 2021",206,Finance,Chennai,Office 365,25,Raman
+AMTZ219,Customer W,"Monday, December 6, 2021",221,Finance,Chennai,Office 365,25,Raman
+AMTZ5,Customer W,"Wednesday, December 15, 2021",6,Finance,New Delhi,Outlook,18,Rajath
+AMTZ142,Customer W,"Wednesday, December 15, 2021",145,Finance,New Delhi,Outlook,18,Rajath
+AMTZ158,Customer W,"Wednesday, December 15, 2021",160,Finance,New Delhi,Outlook,18,Rajath
+AMTZ173,Customer W,"Wednesday, December 15, 2021",175,Finance,New Delhi,Outlook,18,Rajath
+AMTZ188,Customer W,"Wednesday, December 15, 2021",190,Finance,New Delhi,Outlook,18,Rajath
+AMTZ203,Customer W,"Wednesday, December 15, 2021",205,Finance,New Delhi,Outlook,18,Rajath
+AMTZ218,Customer W,"Wednesday, December 15, 2021",220,Finance,New Delhi,Outlook,18,Rajath
+AMTZ4,Customer X,"Saturday, December 18, 2021",4,     Fin,New Delhi,PowerBI,22,Rajath
+AMTZ140,Customer X,"Saturday, December 18, 2021",143,Finance,Nagpur,PowerBI,22,Amar
+AMTZ2,Customer Y,"Saturday, December 25, 2021",2,Finance,New Delhi,Power,9,Rajath
+AMTZ3,Customer Y,"Saturday, December 25, 2021",3, Finance     ,Bengaluru,Excel,39,Raman
+AMTZ138,Customer Y,"Saturday, December 25, 2021",141,Finance,New Delhi,Power,9,Rajath
+AMTZ139,Customer Y,"Saturday, December 25, 2021",142,Finance,Bengaluru,Excel,39,Raman
+AMTZ1,Customer Z,"Thursday, December 30, 2021",1,Finance,New Delhi,Excel,#DIV/0!,Rajath
+AMTZ137,Customer Z,"Thursday, December 30, 2021",140,Finance,Kolkata,Word,19,Rajath
+AMTZ139,Vijay Perepa,"Saturday, December 25, 2021",142,   FInaNCe,Bengaluru,Excel,39,Raman
+AMTZ1,Vijay Perepa,"Thursday, December 30, 2021",1,         Finance,New Delhi,Excel,#DIV/0!,Rajath
+AMTZ137,Vijay Perepa,"Thursday, December 30, 2021",140,Finance          ,Kolkata,Word,19,Rajath
+AMTZ140,Vijay ;ashdf;aghs;dfkl,"Saturday, December 18, 2021",143,   FInaNCe,Nagpur,PowerBI,22,Amar
+AMTZ2,Customer Y,"Saturday, December 25, 2021",2,Finance          ,New Delhi,Power,9,Rajath
+AMTZ3,Customer Y,"Saturday, December 25, 2021",3, Finance     ,Bengaluru,Excel,39,Raman
+AMTZ138,Customer Y,"Saturday, December 25, 2021",141,Finance,New Delhi,Power,9,Rajath
+AMTZ139,Customer Y,"Saturday, December 25, 2021",142,aDmin    ,Bengaluru,Excel,#DIV/0!,Raman
+AMTZ139,IndusInd,"Saturday, December 25, 2021",142,aDmin    ,Bengaluru,Excel,#DIV/0!,Raman
+AMTZ1,Customer Z,"Thursday, December 30, 2021",1,Finance,New Delhi,Excel,#DIV/0!,Rajath
+AMTZ137,Customer Z,"Thursday, December 30, 2021",140,Finance,Kolkata,Word,19,Rajath
+AMTZ139,Vijay Perepa,"Saturday, December 25, 2021",142,   FInaNCe,Bengaluru,Excel,39,Raman
+AMTZ1,Vijay Perepa,"Thursday, December 30, 2021",1,         Finance,New Delhi,Excel,#DIV/0!,Rajath
+AMTZ137,Vijay Perepa,"Thursday, December 30, 2021",140,Finance          ,Kolkata,Word,19,Rajath
+AMTZ140,Vijay ;ashdf;aghs;dfkl,"Saturday, December 18, 2021",143,   FInaNCe,Nagpur,PowerBI,22,Amar
+AMTZ2,Customer Y,"Saturday, December 25, 2021",2,Finance          ,New Delhi,Power,9,Rajath
+AMTZ3,Customer Y,"Saturday, December 25, 2021",3, Finance     ,Bengaluru,Excel,39,Raman
+AMTZ138,Customer Y,"Saturday, December 25, 2021",141,Finance,New Delhi,Power,9,Rajath
+AMTZ139,Customer Y,"Saturday, December 25, 2021",142,aDmin    ,Bengaluru,Excel,#DIV/0!,Raman
+AMTZ139,IndusInd,"Saturday, December 25, 2021",142,hR,Bengaluru,Excel,#DIV/0!,Raman
+AMTZ139,Rieter,"Saturday, December 25, 2021",142,mArkEting,Bengaluru,Excel,#N/A,Raman
+AMTZ139,Rieter,"Saturday, December 25, 2021",142,mArkEting,Bengaluru,Excel,#DIV/0!,Raman
+AMTZ139,Rieter,"Saturday, December 25, 2021",142,mArkEting,Bengaluru,Excel,#DIV/0!,Raman
+,Vijay Perepa,"Saturday, December 25, 2021",21532,iT,Bengaluru,Excel,#DIV/0!,Raman
+,Raman Perepa,"Saturday, December 25, 2021",21532,soFtWear,Bengaluru,Excel,#NAME?,Raman
+,Vijay Perepa,"Saturday, December 25, 2021",21532,New department,Bengaluru,Excel,#DIV/0!,Raman
+,New member,"Saturday, December 25, 2021",234,new Department,Bengaluru,Excel,#DIV/0!,Raman
